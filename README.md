@@ -145,11 +145,11 @@ NEXT_PUBLIC_API_BASE_URL=<backend-url>
 
 ### Review Analyzer
 
-Add screenshot here.
+![Review Analyzer](docs/assets/analyzer_screenshot.png)
 
-### Dashboard
+### Landing Page
 
-Add screenshot here.
+![Landing Page](docs/assets/landing_screenshot.png)
 
 ## Future Improvements
 

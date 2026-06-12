@@ -30,7 +30,7 @@ export default function AnalyzerPage() {
       console.error(caught);
       const message = caught instanceof Error ? caught.message : "";
       if (message.toLowerCase().includes("failed to fetch") || message.toLowerCase().includes("network error") || message.toLowerCase().includes("fetch failed")) {
-        setError("Unable to connect to the VeriSight AI backend. Please verify that the API server is running on port 8005 and try again.");
+        setError("Unable to connect to the VeriSight AI backend. If the backend is hosted on a free tier (like Render), it may be waking up from sleep. Please wait 45-60 seconds and try again.");
       } else {
         setError(message || "Unable to analyze review. An unexpected error occurred.");
       }

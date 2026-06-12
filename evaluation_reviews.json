@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "case_001",
+    "category": "genuine_detailed",
+    "review": "Stayed in room 412 for three nights during the Wednesday holiday weekend. The room was exceptionally clean, the mattress was comfortable, and the sheets felt fresh. But the in-room AC unit was quite noisy when running on high speed today. Overall, it was a very pleasant stay and we would definitely recommend it to others.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.83,
+      "max_confidence": 88.83
+    }
+  },
+  {
+    "id": "case_002",
+    "category": "genuine_detailed",
+    "review": "Booked a house cleaning service last week and they arrived today. The stylist Michael listened carefully to what I wanted and trimmed my layers perfectly. Although the waiting room ran out of coffee and was a bit cold. I will definitely use their services again in the future.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 79.98,
+      "max_confidence": 85.98
+    }
+  },
+  {
+    "id": "case_003",
+    "category": "genuine_detailed",
+    "review": "We checked into room 611 last Friday today for our annual family vacation. Checking in was very smooth and Marcus at the desk even helped us with our heavy luggage. But the in-room AC unit was quite noisy when running on high speed today. We enjoyed our stay and found the service to be quite good for the price.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.68,
+      "max_confidence": 88.68
+    }
+  },
+  {
+    "id": "case_004",
+    "category": "genuine_detailed",
+    "review": "Brought my car to the mechanic on Monday morning for an oil change. The team was very thorough, cleaning under the couch and vacuuming all the rugs. However, the total cost was slightly higher than the initial quote on the phone. I will definitely use their services again in the future.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.08,
+      "max_confidence": 88.08
+    }
+  },
+  {
+    "id": "case_005",
+    "category": "genuine_detailed",
+    "review": "For our business trip on Wednesday, we reserved room 508 close to the downtown area. The room was exceptionally clean, the mattress was comfortable, and the sheets felt fresh. Although the noise from the hallway was a bit loud around 10 PM each night. We enjoyed our stay and found the service to be quite good for the price.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.64,
+      "max_confidence": 88.64
+    }
+  },
+  {
+    "id": "case_006",
+    "category": "genuine_detailed",
+    "review": "This Galaxy S24 arrived in a sturdy box on Thursday afternoon. The switches feel very tactile, the layout is ergonomic, and it connects instantly via Bluetooth. However, the charging cable included in the box is a bit too short for my desk. Overall, it is a great product and definitely worth the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.58,
+      "max_confidence": 88.58
+    }
+  },
+  {
+    "id": "case_007",
+    "category": "genuine_detailed",
+    "review": "We checked into room 203 last Thursday weekday for our annual family vacation. The front desk receptionist, Emily, was incredibly friendly and gave us two breakfast vouchers. However, the bathroom shower had slightly low water pressure and took a minute to warm up. A solid option for anyone visiting the city. The location is perfect.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 81.82,
+      "max_confidence": 87.82
+    }
+  },
+  {
+    "id": "case_008",
+    "category": "genuine_detailed",
+    "review": "Brought my car to the mechanic on Friday morning for an oil change. The team was very thorough, cleaning under the couch and vacuuming all the rugs. But they missed cleaning one of the shelves in the living room. Overall, they did an honest and high-quality job that was worth it.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.0,
+      "max_confidence": 88.0
+    }
+  },
+  {
+    "id": "case_009",
+    "category": "genuine_detailed",
+    "review": "Stopped by today during today for lunch and ordered the tacos. Our waitress Jessica was very attentive, refilling our water and checking on us regularly. Although the dining room was a bit too loud because of a large group nearby. Overall, the quality of the food made it a very enjoyable experience.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 87,
+      "max_trust_score": 95,
+      "min_confidence": 82.38,
+      "max_confidence": 88.38
+    }
+  },
+  {
+    "id": "case_010",
+    "category": "genuine_detailed",
+    "review": "Visited the salon on Saturday morning for a haircut and styling. The team was very thorough, cleaning under the couch and vacuuming all the rugs. But they missed cleaning one of the shelves in the living room. A reliable service that I would recommend to others.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.0,
+      "max_confidence": 88.0
+    }
+  },
+  {
+    "id": "case_011",
+    "category": "genuine_detailed",
+    "review": "This iPhone 15 arrived in a sturdy box on Thursday afternoon. The display is bright, the battery life lasts a long time, and performance is fast. However, the charging cable included in the box is a bit too short for my desk. Despite the small issues, I am very satisfied with this purchase.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.66,
+      "max_confidence": 88.66
+    }
+  },
+  {
+    "id": "case_012",
+    "category": "genuine_detailed",
+    "review": "We checked into room 611 last Saturday afternoon for our annual family vacation. Checking in was very smooth and Alex at the desk even helped us with our heavy luggage. Although the noise from the hallway was a bit loud around 10 PM each night. Despite the minor issues, we had a good experience and will likely return next year.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 88,
+      "max_trust_score": 96,
+      "min_confidence": 82.42,
+      "max_confidence": 88.42
+    }
+  },
+  {
+    "id": "case_013",
+    "category": "genuine_detailed",
+    "review": "Brought my car to the mechanic on Thursday morning for an oil change. The team was very thorough, cleaning under the couch and vacuuming all the rugs. But they missed cleaning one of the shelves in the living room. I will definitely use their services again in the future.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.12,
+      "max_confidence": 88.12
+    }
+  },
+  {
+    "id": "case_014",
+    "category": "genuine_detailed",
+    "review": "We checked into room 415 last Monday yesterday for our annual family vacation. Checking in was very smooth and Michael at the desk even helped us with our heavy luggage. Although the wifi connection dropped a couple of times during the evening. Despite the minor issues, we had a good experience and will likely return next year.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 82,
+      "max_trust_score": 90,
+      "min_confidence": 83.06,
+      "max_confidence": 89.06
+    }
+  },
+  {
+    "id": "case_015",
+    "category": "genuine_detailed",
+    "review": "Got this new protective case on sale last week and opened it this weekday. The build quality is excellent, the materials feel premium, and setup was very straightforward. However, the charging cable included in the box is a bit too short for my desk. Highly recommended for anyone looking for a reliable daily driver.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 81.1,
+      "max_confidence": 87.1
+    }
+  },
+  {
+    "id": "case_016",
+    "category": "genuine_detailed",
+    "review": "We had dinner here on Tuesday evening around 7 PM to celebrate. The crust had a perfect chew, the sauce was savory, and the ingredients were fresh. But the delivery driver got lost and took 45 minutes to find our apartment. Overall, the quality of the food made it a very enjoyable experience.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 83,
+      "max_trust_score": 91,
+      "min_confidence": 80.51,
+      "max_confidence": 86.51
+    }
+  },
+  {
+    "id": "case_017",
+    "category": "genuine_detailed",
+    "review": "Booked a house cleaning service last week and they arrived today. The stylist Sarah listened carefully to what I wanted and trimmed my layers perfectly. Although the waiting room ran out of coffee and was a bit cold. A reliable service that I would recommend to others.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 80.21,
+      "max_confidence": 86.21
+    }
+  },
+  {
+    "id": "case_018",
+    "category": "genuine_detailed",
+    "review": "We had dinner here on Tuesday evening around 7 PM to celebrate. The food was served hot, the flavors were authentic, and the portions were large. Although the dining room was a bit too loud because of a large group nearby. A great lunch option in this neighborhood with reasonable prices.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 89,
+      "max_trust_score": 97,
+      "min_confidence": 83.59,
+      "max_confidence": 89.59
+    }
+  },
+  {
+    "id": "case_019",
+    "category": "genuine_detailed",
+    "review": "Ordered the lasagna and a side of garlic knots for delivery last night. The food was served hot, the flavors were authentic, and the portions were large. Although the dining room was a bit too loud because of a large group nearby. We will definitely return to try more dishes from the menu soon.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 83.5,
+      "max_confidence": 89.5
+    }
+  },
+  {
+    "id": "case_020",
+    "category": "genuine_detailed",
+    "review": "Stopped by today during evening for lunch and ordered the steak. The food was served hot, the flavors were authentic, and the portions were large. However, the restaurant was slightly crowded and the wait time was around 20 minutes. Overall, the quality of the food made it a very enjoyable experience.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.72,
+      "max_confidence": 88.72
+    }
+  },
+  {
+    "id": "case_021",
+    "category": "genuine_detailed",
+    "review": "For our business trip on Monday, we reserved room 415 close to the downtown area. Checking in was very smooth and Alex at the desk even helped us with our heavy luggage. Although the noise from the hallway was a bit loud around 10 PM each night. Overall, it was a very pleasant stay and we would definitely recommend it to others.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 85,
+      "max_trust_score": 93,
+      "min_confidence": 82.38,
+      "max_confidence": 88.38
+    }
+  },
+  {
+    "id": "case_022",
+    "category": "genuine_detailed",
+    "review": "Visited the salon on Saturday morning for a haircut and styling. The professional Sarah explained everything clearly and finished the work under two hours. However, the total cost was slightly higher than the initial quote on the phone. A reliable service that I would recommend to others.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 81,
+      "max_trust_score": 89,
+      "min_confidence": 82.16,
+      "max_confidence": 88.16
+    }
+  },
+  {
+    "id": "case_023",
+    "category": "genuine_detailed",
+    "review": "We had dinner here on Saturday evening around 7 PM to celebrate. Our waitress Marcus was very attentive, refilling our water and checking on us regularly. But the delivery driver got lost and took 45 minutes to find our apartment. Overall, the quality of the food made it a very enjoyable experience.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 85,
+      "max_trust_score": 93,
+      "min_confidence": 82.34,
+      "max_confidence": 88.34
+    }
+  },
+  {
+    "id": "case_024",
+    "category": "genuine_detailed",
+    "review": "This laptop stand arrived in a sturdy box on Thursday afternoon. The display is bright, the battery life lasts a long time, and performance is fast. But the device runs slightly warm when using it on high performance mode. Despite the small issues, I am very satisfied with this purchase.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 81.37,
+      "max_confidence": 87.37
+    }
+  },
+  {
+    "id": "case_025",
+    "category": "genuine_detailed",
+    "review": "My husband and I booked room 614 for a quick getaway last Friday afternoon. The front desk receptionist, Sarah, was incredibly friendly and gave us two breakfast vouchers. However, the bathroom shower had slightly low water pressure and took a minute to warm up. We enjoyed our stay and found the service to be quite good for the price.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 82,
+      "max_trust_score": 90,
+      "min_confidence": 82.05,
+      "max_confidence": 88.05
+    }
+  },
+  {
+    "id": "case_026",
+    "category": "genuine_detailed",
+    "review": "Got this new protective case on sale last week and opened it this today. The display is bright, the battery life lasts a long time, and performance is fast. But the device runs slightly warm when using it on high performance mode. Highly recommended for anyone looking for a reliable daily driver.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 80.21,
+      "max_confidence": 86.21
+    }
+  },
+  {
+    "id": "case_027",
+    "category": "genuine_detailed",
+    "review": "Ordered the burger and a side of garlic knots for delivery last night. The food was served hot, the flavors were authentic, and the portions were large. However, the restaurant was slightly crowded and the wait time was around 20 minutes. Overall, the quality of the food made it a very enjoyable experience.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.79,
+      "max_confidence": 88.79
+    }
+  },
+  {
+    "id": "case_028",
+    "category": "genuine_detailed",
+    "review": "Brought my car to the mechanic on Tuesday morning for an oil change. The professional Marcus explained everything clearly and finished the work under two hours. But they missed cleaning one of the shelves in the living room. Overall, they did an honest and high-quality job that was worth it.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 80,
+      "max_trust_score": 88,
+      "min_confidence": 82.19,
+      "max_confidence": 88.19
+    }
+  },
+  {
+    "id": "case_029",
+    "category": "genuine_detailed",
+    "review": "Got this new bluetooth speaker on sale last week and opened it this night. The switches feel very tactile, the layout is ergonomic, and it connects instantly via Bluetooth. Although the user manual was a bit confusing and had tiny text. Despite the small issues, I am very satisfied with this purchase.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.0,
+      "max_confidence": 88.0
+    }
+  },
+  {
+    "id": "case_030",
+    "category": "genuine_detailed",
+    "review": "Brought my car to the mechanic on Saturday morning for an oil change. The professional Emily explained everything clearly and finished the work under two hours. However, the total cost was slightly higher than the initial quote on the phone. I will definitely use their services again in the future.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 82,
+      "max_trust_score": 90,
+      "min_confidence": 82.27,
+      "max_confidence": 88.27
+    }
+  },
+  {
+    "id": "case_031",
+    "category": "genuine_detailed",
+    "review": "I ordered the MacBook Pro from Amazon last Sunday evening for my study setup. The switches feel very tactile, the layout is ergonomic, and it connects instantly via Bluetooth. But the device runs slightly warm when using it on high performance mode. Despite the small issues, I am very satisfied with this purchase.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.12,
+      "max_confidence": 88.12
+    }
+  },
+  {
+    "id": "case_032",
+    "category": "genuine_detailed",
+    "review": "For our business trip on Sunday, we reserved room 204 close to the downtown area. The lobby area was beautiful, and Emily checked us in within five minutes of arrival. Although the noise from the hallway was a bit loud around 10 PM each night. Overall, it was a very pleasant stay and we would definitely recommend it to others.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 89,
+      "max_trust_score": 97,
+      "min_confidence": 82.53,
+      "max_confidence": 88.53
+    }
+  },
+  {
+    "id": "case_033",
+    "category": "genuine_detailed",
+    "review": "My husband and I booked room 305 for a quick getaway last Monday afternoon. The room was exceptionally clean, the mattress was comfortable, and the sheets felt fresh. Although the noise from the hallway was a bit loud around 10 PM each night. We enjoyed our stay and found the service to be quite good for the price.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.6,
+      "max_confidence": 88.6
+    }
+  },
+  {
+    "id": "case_034",
+    "category": "genuine_detailed",
+    "review": "We had dinner here on Thursday evening around 7 PM to celebrate. The crust had a perfect chew, the sauce was savory, and the ingredients were fresh. Although the dining room was a bit too loud because of a large group nearby. Overall, the quality of the food made it a very enjoyable experience.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 85,
+      "max_trust_score": 93,
+      "min_confidence": 80.66,
+      "max_confidence": 86.66
+    }
+  },
+  {
+    "id": "case_035",
+    "category": "genuine_detailed",
+    "review": "Brought my car to the mechanic on Friday morning for an oil change. The professional Lily explained everything clearly and finished the work under two hours. However, the total cost was slightly higher than the initial quote on the phone. I will definitely use their services again in the future.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 82,
+      "max_trust_score": 90,
+      "min_confidence": 82.27,
+      "max_confidence": 88.27
+    }
+  },
+  {
+    "id": "case_036",
+    "category": "genuine_detailed",
+    "review": "Brought my car to the mechanic on Monday morning for an oil change. The team was very thorough, cleaning under the couch and vacuuming all the rugs. Although the waiting room ran out of coffee and was a bit cold. I will definitely use their services again in the future.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 82.12,
+      "max_confidence": 88.12
+    }
+  },
+  {
+    "id": "case_037",
+    "category": "genuine_detailed",
+    "review": "We checked into room 305 last Tuesday weekday for our annual family vacation. Checking in was very smooth and Daniel at the desk even helped us with our heavy luggage. Although the noise from the hallway was a bit loud around 10 PM each night. A solid option for anyone visiting the city. The location is perfect.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 81.59,
+      "max_confidence": 87.59
+    }
+  },
+  {
+    "id": "case_038",
+    "category": "genuine_detailed",
+    "review": "Got this new USB hub on sale last week and opened it this evening. The switches feel very tactile, the layout is ergonomic, and it connects instantly via Bluetooth. However, the charging cable included in the box is a bit too short for my desk. Overall, it is a great product and definitely worth the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 80,
+      "max_trust_score": 88,
+      "min_confidence": 82.03,
+      "max_confidence": 88.03
+    }
+  },
+  {
+    "id": "case_039",
+    "category": "genuine_detailed",
+    "review": "Stayed in room 102 for three nights during the Wednesday holiday weekend. The room was exceptionally clean, the mattress was comfortable, and the sheets felt fresh. However, the bathroom shower had slightly low water pressure and took a minute to warm up. Despite the minor issues, we had a good experience and will likely return next year.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.68,
+      "max_confidence": 88.68
+    }
+  },
+  {
+    "id": "case_040",
+    "category": "genuine_detailed",
+    "review": "My husband and I booked room 705 for a quick getaway last Sunday afternoon. Checking in was very smooth and Alex at the desk even helped us with our heavy luggage. However, the bathroom shower had slightly low water pressure and took a minute to warm up. A solid option for anyone visiting the city. The location is perfect.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 80.77,
+      "max_confidence": 86.77
+    }
+  },
+  {
+    "id": "case_041",
+    "category": "genuine_short",
+    "review": "Excellent haircut by Oliver at the salon today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 58.31,
+      "max_confidence": 64.31
+    }
+  },
+  {
+    "id": "case_042",
+    "category": "genuine_short",
+    "review": "Clean sheets and a comfortable mattress in room 804 during check-in.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 69,
+      "max_trust_score": 77,
+      "min_confidence": 61.28,
+      "max_confidence": 67.28
+    }
+  },
+  {
+    "id": "case_043",
+    "category": "genuine_short",
+    "review": "The mechanical keyboard works perfectly and charges my laptop very quickly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 58.0,
+      "max_confidence": 64.0
+    }
+  },
+  {
+    "id": "case_044",
+    "category": "genuine_short",
+    "review": "Excellent haircut by Lily at the salon today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 58.31,
+      "max_confidence": 64.31
+    }
+  },
+  {
+    "id": "case_045",
+    "category": "genuine_short",
+    "review": "The shipping was fast and the iPhone 15 arrived undamaged today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 60.04,
+      "max_confidence": 66.04
+    }
+  },
+  {
+    "id": "case_046",
+    "category": "genuine_short",
+    "review": "The bathroom in room 101 was spotless and Emma was very helpful.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 59.81,
+      "max_confidence": 65.81
+    }
+  },
+  {
+    "id": "case_047",
+    "category": "genuine_short",
+    "review": "Loved the clean towels and the quiet atmosphere in room 614 last night.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 74,
+      "max_trust_score": 82,
+      "min_confidence": 64.7,
+      "max_confidence": 70.7
+    }
+  },
+  {
+    "id": "case_048",
+    "category": "genuine_short",
+    "review": "Loved the clean towels and the quiet atmosphere in room 306 last night.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 74,
+      "max_trust_score": 82,
+      "min_confidence": 64.7,
+      "max_confidence": 70.7
+    }
+  },
+  {
+    "id": "case_049",
+    "category": "genuine_short",
+    "review": "The wireless mouse works perfectly!! Very good product.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 46,
+      "max_trust_score": 54,
+      "min_confidence": 55.0,
+      "max_confidence": 61.0
+    }
+  },
+  {
+    "id": "case_050",
+    "category": "genuine_short",
+    "review": "Clean sheets and a comfortable mattress in room 305 during check-in.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 69,
+      "max_trust_score": 77,
+      "min_confidence": 61.28,
+      "max_confidence": 67.28
+    }
+  },
+  {
+    "id": "case_051",
+    "category": "genuine_short",
+    "review": "Excellent haircut by Sarah at the salon today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 58.31,
+      "max_confidence": 64.31
+    }
+  },
+  {
+    "id": "case_052",
+    "category": "genuine_short",
+    "review": "Room 102 was very clean and the front desk staff was friendly morning.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 74,
+      "max_trust_score": 82,
+      "min_confidence": 62.8,
+      "max_confidence": 68.8
+    }
+  },
+  {
+    "id": "case_053",
+    "category": "genuine_short",
+    "review": "The bathroom in room 306 was spotless and Emily was very helpful.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 59.81,
+      "max_confidence": 65.81
+    }
+  },
+  {
+    "id": "case_054",
+    "category": "genuine_short",
+    "review": "The pizza crust was thin and crispy and the toppings were fresh.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 60.54,
+      "max_confidence": 66.54
+    }
+  },
+  {
+    "id": "case_055",
+    "category": "genuine_short",
+    "review": "The staff member Sarah was polite and the bed sheets were fresh.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 70,
+      "max_trust_score": 78,
+      "min_confidence": 62.32,
+      "max_confidence": 68.32
+    }
+  },
+  {
+    "id": "case_056",
+    "category": "genuine_short",
+    "review": "Excellent haircut by Emma at the salon today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 58.31,
+      "max_confidence": 64.31
+    }
+  },
+  {
+    "id": "case_057",
+    "category": "genuine_short",
+    "review": "The MacBook Pro works perfectly!! Very good product.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 46,
+      "max_trust_score": 54,
+      "min_confidence": 55.0,
+      "max_confidence": 61.0
+    }
+  },
+  {
+    "id": "case_058",
+    "category": "genuine_short",
+    "review": "Clean room and comfortable bed! Room 102 is very very nice.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 65,
+      "max_trust_score": 73,
+      "min_confidence": 57.13,
+      "max_confidence": 63.13
+    }
+  },
+  {
+    "id": "case_059",
+    "category": "genuine_short",
+    "review": "Friendly service at checkout today! The place was nice!!",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 61,
+      "max_trust_score": 69,
+      "min_confidence": 55.0,
+      "max_confidence": 61.0
+    }
+  },
+  {
+    "id": "case_060",
+    "category": "genuine_short",
+    "review": "The chicken curry was spicy and hot and the garlic naan was delicious.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 70,
+      "max_trust_score": 78,
+      "min_confidence": 62.28,
+      "max_confidence": 68.28
+    }
+  },
+  {
+    "id": "case_061",
+    "category": "genuine_short",
+    "review": "Tactile switches and very sturdy build quality on the new iPhone 15.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 69,
+      "max_trust_score": 77,
+      "min_confidence": 61.44,
+      "max_confidence": 67.44
+    }
+  },
+  {
+    "id": "case_062",
+    "category": "genuine_short",
+    "review": "The USB hub works perfectly and charges my laptop very quickly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 57.8,
+      "max_confidence": 63.8
+    }
+  },
+  {
+    "id": "case_063",
+    "category": "genuine_short",
+    "review": "Clean sheets and a comfortable mattress in room 102 during check-in.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 69,
+      "max_trust_score": 77,
+      "min_confidence": 61.28,
+      "max_confidence": 67.28
+    }
+  },
+  {
+    "id": "case_064",
+    "category": "genuine_short",
+    "review": "Clean sheets and a comfortable mattress in room 306 during check-in.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 69,
+      "max_trust_score": 77,
+      "min_confidence": 61.28,
+      "max_confidence": 67.28
+    }
+  },
+  {
+    "id": "case_065",
+    "category": "genuine_short",
+    "review": "The bluetooth speaker works perfectly and charges my laptop very quickly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 58.0,
+      "max_confidence": 64.0
+    }
+  },
+  {
+    "id": "case_066",
+    "category": "genuine_short",
+    "review": "Room 204 was very clean and the front desk staff was friendly morning.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 74,
+      "max_trust_score": 82,
+      "min_confidence": 62.8,
+      "max_confidence": 68.8
+    }
+  },
+  {
+    "id": "case_067",
+    "category": "genuine_short",
+    "review": "The mechanic Oliver finished the oil change in under 30 minutes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 60.04,
+      "max_confidence": 66.04
+    }
+  },
+  {
+    "id": "case_068",
+    "category": "genuine_short",
+    "review": "Room 801 was very clean and the front desk staff was friendly yesterday.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 74,
+      "max_trust_score": 82,
+      "min_confidence": 62.8,
+      "max_confidence": 68.8
+    }
+  },
+  {
+    "id": "case_069",
+    "category": "genuine_short",
+    "review": "The MacBook Pro works perfectly and charges my laptop very quickly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 58.15,
+      "max_confidence": 64.15
+    }
+  },
+  {
+    "id": "case_070",
+    "category": "genuine_short",
+    "review": "The mechanic Michael finished the oil change in under 30 minutes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 60.04,
+      "max_confidence": 66.04
+    }
+  },
+  {
+    "id": "case_071",
+    "category": "suspicious_promotional",
+    "review": "Best Lasagna Ever! BEST IPHONE 15 EVER! CHANGED MY LIFE COMPLETELY. Highly Recommend To Everyone!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.06,
+      "max_confidence": 68.06
+    }
+  },
+  {
+    "id": "case_072",
+    "category": "suspicious_promotional",
+    "review": "OUTSTANDING SERVICE BY CLERK LUCAS! Best Hotel Ever In Room 705. Must Buy It Now. Unbelievable Results.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 31,
+      "max_trust_score": 39,
+      "min_confidence": 62.37,
+      "max_confidence": 68.37
+    }
+  },
+  {
+    "id": "case_073",
+    "category": "suspicious_promotional",
+    "review": "Best Sushi Ever. Highly Recommend To Everyone. unbelievable results! MOST SPECTACULAR PURCHASE.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 32,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_074",
+    "category": "suspicious_promotional",
+    "review": "OUTSTANDING SERVICE BY CLERK LILY! best hotel ever in room 705. ABSOLUTELY AMAZING QUALITY! INCREDIBLE EXPERIENCE.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 32,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_075",
+    "category": "suspicious_promotional",
+    "review": "Best Laptop Stand Ever! BEST BURGER EVER! Best Product Ever! CHANGED MY LIFE COMPLETELY!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 36,
+      "max_trust_score": 44,
+      "min_confidence": 62.3,
+      "max_confidence": 68.3
+    }
+  },
+  {
+    "id": "case_076",
+    "category": "suspicious_promotional",
+    "review": "Best Lasagna Ever. Absolutely Life Changing! MUST BUY IT NOW!!! Outstanding Service!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.55,
+      "max_confidence": 68.55
+    }
+  },
+  {
+    "id": "case_077",
+    "category": "suspicious_promotional",
+    "review": "Best Lasagna Ever! Outstanding Service. absolutely life changing!!! Worth Every Single Penny.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 34,
+      "max_trust_score": 42,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_078",
+    "category": "suspicious_promotional",
+    "review": "Outstanding Service By Clerk Emily. BEST HOTEL EVER IN ROOM 508. The Absolute Perfect Choice! worth every single penny!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 34,
+      "max_trust_score": 42,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_079",
+    "category": "suspicious_promotional",
+    "review": "BEST GALAXY S24 EVER. outstanding service. Most Spectacular Purchase!!! ABSOLUTELY AMAZING QUALITY!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_080",
+    "category": "suspicious_promotional",
+    "review": "Best Lasagna Ever. OUTSTANDING SERVICE BY CLERK SARAH. ABSOLUTELY LIFE CHANGING. must buy it now!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 25,
+      "max_trust_score": 33,
+      "min_confidence": 63.06,
+      "max_confidence": 69.06
+    }
+  },
+  {
+    "id": "case_081",
+    "category": "suspicious_promotional",
+    "review": "Best Hotel Ever In Room 306. absolutely life changing! Outstanding Service! INCREDIBLE EXPERIENCE!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 35,
+      "max_trust_score": 43,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_082",
+    "category": "suspicious_promotional",
+    "review": "BEST HOTEL EVER IN ROOM 702! absolutely amazing quality. MOST SPECTACULAR PURCHASE! The Absolute Perfect Choice.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 26,
+      "max_trust_score": 34,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_083",
+    "category": "suspicious_promotional",
+    "review": "BEST HOTEL EVER IN ROOM 306! outstanding service by clerk marcus! UNBELIEVABLE RESULTS. Most Spectacular Purchase.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 30,
+      "max_trust_score": 38,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_084",
+    "category": "suspicious_promotional",
+    "review": "OUTSTANDING SERVICE BY CLERK MARCUS. worth every single penny. Five Stars All The Way. the absolute perfect choice.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 26,
+      "max_trust_score": 34,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_085",
+    "category": "suspicious_promotional",
+    "review": "best mechanical keyboard ever. OUTSTANDING SERVICE BY CLERK LUCAS! absolutely life changing!!! five stars all the way!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 28,
+      "min_confidence": 62.25,
+      "max_confidence": 68.25
+    }
+  },
+  {
+    "id": "case_086",
+    "category": "suspicious_promotional",
+    "review": "BEST LASAGNA EVER. best hotel ever in room 102. outstanding service!!! INCREDIBLE EXPERIENCE.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 33,
+      "max_trust_score": 41,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_087",
+    "category": "suspicious_promotional",
+    "review": "OUTSTANDING SERVICE BY CLERK ALEX. Changed My Life Completely. MUST BUY IT NOW. THE ABSOLUTE PERFECT CHOICE!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 25,
+      "max_trust_score": 33,
+      "min_confidence": 62.72,
+      "max_confidence": 68.72
+    }
+  },
+  {
+    "id": "case_088",
+    "category": "suspicious_promotional",
+    "review": "Best Hotel Ever In Room 204. OUTSTANDING SERVICE BY CLERK LUCAS! unbelievable results!!! Worth Every Single Penny.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 31,
+      "max_trust_score": 39,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_089",
+    "category": "suspicious_promotional",
+    "review": "Best Hotel Ever In Room 306! best steak ever. absolutely amazing quality. INCREDIBLE EXPERIENCE!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 36,
+      "max_trust_score": 44,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_090",
+    "category": "suspicious_promotional",
+    "review": "Outstanding Service By Clerk Sarah. unbelievable results! Worth Every Single Penny!!! The Absolute Perfect Choice!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 30,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_091",
+    "category": "suspicious_promotional",
+    "review": "best lasagna ever! INCREDIBLE EXPERIENCE! OUTSTANDING SERVICE! Must Buy It Now.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_092",
+    "category": "suspicious_promotional",
+    "review": "BEST HOTEL EVER IN ROOM 508. Outstanding Service By Clerk Lily. UNBELIEVABLE RESULTS!!! Absolutely Life Changing!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 26,
+      "max_trust_score": 34,
+      "min_confidence": 62.44,
+      "max_confidence": 68.44
+    }
+  },
+  {
+    "id": "case_093",
+    "category": "suspicious_promotional",
+    "review": "best hotel ever in room 501! The Absolute Perfect Choice. must buy it now. changed my life completely!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 31,
+      "max_trust_score": 39,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_094",
+    "category": "suspicious_promotional",
+    "review": "OUTSTANDING SERVICE BY CLERK OLIVER. best macbook pro ever! WORTH EVERY SINGLE PENNY! best product ever.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 29,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_095",
+    "category": "suspicious_promotional",
+    "review": "Best Wireless Mouse Ever! BEST STEAK EVER. absolutely amazing quality. highly recommend to everyone.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 28,
+      "max_trust_score": 36,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_096",
+    "category": "suspicious_promotional",
+    "review": "best bluetooth speaker ever. HIGHLY RECOMMEND TO EVERYONE! Absolutely Amazing Quality. most spectacular purchase.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 28,
+      "max_trust_score": 36,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_097",
+    "category": "suspicious_promotional",
+    "review": "best steak ever. Best Product Ever. unbelievable results! Highly Recommend To Everyone!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 28,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_098",
+    "category": "suspicious_promotional",
+    "review": "Best Wireless Mouse Ever! OUTSTANDING SERVICE BY CLERK SOPHIA. WORTH EVERY SINGLE PENNY. FIVE STARS ALL THE WAY!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.99,
+      "max_confidence": 68.99
+    }
+  },
+  {
+    "id": "case_099",
+    "category": "suspicious_promotional",
+    "review": "best tikka masala ever. MOST SPECTACULAR PURCHASE! Worth Every Single Penny. HIGHLY RECOMMEND TO EVERYONE.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 29,
+      "max_trust_score": 37,
+      "min_confidence": 62.53,
+      "max_confidence": 68.53
+    }
+  },
+  {
+    "id": "case_100",
+    "category": "suspicious_promotional",
+    "review": "Outstanding Service By Clerk Sophia. INCREDIBLE EXPERIENCE. Unbelievable Results! must buy it now!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.54,
+      "max_confidence": 68.54
+    }
+  },
+  {
+    "id": "case_101",
+    "category": "suspicious_promotional",
+    "review": "BEST HOTEL EVER IN ROOM 415! The Absolute Perfect Choice. OUTSTANDING SERVICE. Highly Recommend To Everyone!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.63,
+      "max_confidence": 68.63
+    }
+  },
+  {
+    "id": "case_102",
+    "category": "suspicious_promotional",
+    "review": "BEST SUSHI EVER! BEST PRODUCT EVER. Must Buy It Now. Incredible Experience!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 28,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_103",
+    "category": "suspicious_promotional",
+    "review": "Best Hotel Ever In Room 508. MUST BUY IT NOW. MOST SPECTACULAR PURCHASE!!! INCREDIBLE EXPERIENCE.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 63.28,
+      "max_confidence": 69.28
+    }
+  },
+  {
+    "id": "case_104",
+    "category": "suspicious_promotional",
+    "review": "best hotel ever in room 611! Outstanding Service By Clerk Michael! highly recommend to everyone! Most Spectacular Purchase!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 35,
+      "max_trust_score": 43,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_105",
+    "category": "suspicious_promotional",
+    "review": "BEST SUSHI EVER. Best Hotel Ever In Room 705. Changed My Life Completely! Absolutely Life Changing!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 30,
+      "max_trust_score": 38,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_106",
+    "category": "suspicious_promotional",
+    "review": "BEST HOTEL EVER IN ROOM 804! best iphone 15 ever! HIGHLY RECOMMEND TO EVERYONE. Incredible Experience!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 27,
+      "max_trust_score": 35,
+      "min_confidence": 62.1,
+      "max_confidence": 68.1
+    }
+  },
+  {
+    "id": "case_107",
+    "category": "suspicious_promotional",
+    "review": "best hotel ever in room 415. ABSOLUTELY AMAZING QUALITY. Highly Recommend To Everyone!!! Incredible Experience.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 28,
+      "max_trust_score": 36,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_108",
+    "category": "suspicious_promotional",
+    "review": "best sushi ever! Best Galaxy S24 Ever. Worth Every Single Penny!!! THE ABSOLUTE PERFECT CHOICE.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 32,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_109",
+    "category": "suspicious_promotional",
+    "review": "BEST MACBOOK PRO EVER. outstanding service by clerk oliver! Most Spectacular Purchase! worth every single penny!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 33,
+      "max_trust_score": 41,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_110",
+    "category": "suspicious_promotional",
+    "review": "BEST LASAGNA EVER! best hotel ever in room 501. must buy it now. WORTH EVERY SINGLE PENNY.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 31,
+      "min_confidence": 62.0,
+      "max_confidence": 68.0
+    }
+  },
+  {
+    "id": "case_111",
+    "category": "ambiguous",
+    "review": "It is okay. Average quality and standard features overall. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.37,
+      "max_confidence": 65.37
+    }
+  },
+  {
+    "id": "case_112",
+    "category": "ambiguous",
+    "review": "Not bad for what it is. Average quality and standard features overall. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.37,
+      "max_confidence": 65.37
+    }
+  },
+  {
+    "id": "case_113",
+    "category": "ambiguous",
+    "review": "It works alright. Average quality and standard features overall. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.37,
+      "max_confidence": 65.37
+    }
+  },
+  {
+    "id": "case_114",
+    "category": "ambiguous",
+    "review": "It is okay. Not the best I have ever seen, but not the worst either. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 56,
+      "max_trust_score": 64,
+      "min_confidence": 60.99,
+      "max_confidence": 66.99
+    }
+  },
+  {
+    "id": "case_115",
+    "category": "ambiguous",
+    "review": "Not bad for what it is. Average quality and standard features overall. Okay for a quick purchase.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.33,
+      "max_confidence": 65.33
+    }
+  },
+  {
+    "id": "case_116",
+    "category": "ambiguous",
+    "review": "It is okay. Average quality and standard features overall. Decent for the price point.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 52,
+      "max_trust_score": 60,
+      "min_confidence": 59.64,
+      "max_confidence": 65.64
+    }
+  },
+  {
+    "id": "case_117",
+    "category": "ambiguous",
+    "review": "The experience was fine. It performs okay under regular daily use. Okay for a quick purchase.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.18,
+      "max_confidence": 65.18
+    }
+  },
+  {
+    "id": "case_118",
+    "category": "ambiguous",
+    "review": "It works alright. It performs okay under regular daily use. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.72,
+      "max_confidence": 65.72
+    }
+  },
+  {
+    "id": "case_119",
+    "category": "ambiguous",
+    "review": "It is okay. It performs okay under regular daily use. Decent for the price point.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.41,
+      "max_confidence": 65.41
+    }
+  },
+  {
+    "id": "case_120",
+    "category": "ambiguous",
+    "review": "It is a decent product. It performs okay under regular daily use. Okay for a quick purchase.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.1,
+      "max_confidence": 65.1
+    }
+  },
+  {
+    "id": "case_121",
+    "category": "ambiguous",
+    "review": "It is okay. Average quality and standard features overall. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.91,
+      "max_confidence": 65.91
+    }
+  },
+  {
+    "id": "case_122",
+    "category": "ambiguous",
+    "review": "Not bad for what it is. Average quality and standard features overall. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.26,
+      "max_confidence": 65.26
+    }
+  },
+  {
+    "id": "case_123",
+    "category": "ambiguous",
+    "review": "Not bad for what it is. It performs okay under regular daily use. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.18,
+      "max_confidence": 65.18
+    }
+  },
+  {
+    "id": "case_124",
+    "category": "ambiguous",
+    "review": "It works alright. Average quality and standard features overall. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.91,
+      "max_confidence": 65.91
+    }
+  },
+  {
+    "id": "case_125",
+    "category": "ambiguous",
+    "review": "It is okay. It performs okay under regular daily use. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.72,
+      "max_confidence": 65.72
+    }
+  },
+  {
+    "id": "case_126",
+    "category": "ambiguous",
+    "review": "The experience was fine. It performs okay under regular daily use. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.3,
+      "max_confidence": 65.3
+    }
+  },
+  {
+    "id": "case_127",
+    "category": "ambiguous",
+    "review": "It is a decent product. It performs okay under regular daily use. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.26,
+      "max_confidence": 65.26
+    }
+  },
+  {
+    "id": "case_128",
+    "category": "ambiguous",
+    "review": "It works alright. It performs okay under regular daily use. Okay for a quick purchase.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.14,
+      "max_confidence": 65.14
+    }
+  },
+  {
+    "id": "case_129",
+    "category": "ambiguous",
+    "review": "The experience was fine. It performs okay under regular daily use. Decent for the price point.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.45,
+      "max_confidence": 65.45
+    }
+  },
+  {
+    "id": "case_130",
+    "category": "ambiguous",
+    "review": "It is a decent product. It performs okay under regular daily use. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.18,
+      "max_confidence": 65.18
+    }
+  },
+  {
+    "id": "case_131",
+    "category": "ambiguous",
+    "review": "Not bad for what it is. Nothing special, but it does what it is supposed to do. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 54,
+      "max_trust_score": 62,
+      "min_confidence": 60.12,
+      "max_confidence": 66.12
+    }
+  },
+  {
+    "id": "case_132",
+    "category": "ambiguous",
+    "review": "It is a decent product. Average quality and standard features overall. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.26,
+      "max_confidence": 65.26
+    }
+  },
+  {
+    "id": "case_133",
+    "category": "ambiguous",
+    "review": "It works alright. It performs okay under regular daily use. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 59.18,
+      "max_confidence": 65.18
+    }
+  },
+  {
+    "id": "case_134",
+    "category": "ambiguous",
+    "review": "Not bad for what it is. It performs okay under regular daily use. Nothing to write home about.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 58,
+      "min_confidence": 59.26,
+      "max_confidence": 65.26
+    }
+  },
+  {
+    "id": "case_135",
+    "category": "ambiguous",
+    "review": "It is okay. It performs okay under regular daily use. Okay for a quick purchase.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 48,
+      "max_trust_score": 56,
+      "min_confidence": 59.03,
+      "max_confidence": 65.03
+    }
+  },
+  {
+    "id": "case_136",
+    "category": "ambiguous",
+    "review": "The experience was fine. Average quality and standard features overall. Decent for the price point.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.53,
+      "max_confidence": 65.53
+    }
+  },
+  {
+    "id": "case_137",
+    "category": "ambiguous",
+    "review": "Not bad for what it is. It performs okay under regular daily use. Decent for the price point.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.41,
+      "max_confidence": 65.41
+    }
+  },
+  {
+    "id": "case_138",
+    "category": "ambiguous",
+    "review": "It works alright. Not the best I have ever seen, but not the worst either. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 56,
+      "max_trust_score": 64,
+      "min_confidence": 60.99,
+      "max_confidence": 66.99
+    }
+  },
+  {
+    "id": "case_139",
+    "category": "ambiguous",
+    "review": "It works alright. Average quality and standard features overall. Okay for a quick purchase.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 59.37,
+      "max_confidence": 65.37
+    }
+  },
+  {
+    "id": "case_140",
+    "category": "ambiguous",
+    "review": "The experience was fine. Average quality and standard features overall. We will see how it holds up over time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 60.03,
+      "max_confidence": 66.03
+    }
+  },
+  {
+    "id": "case_141",
+    "category": "balanced_mixed",
+    "review": "The mechanical keyboard packaging was beautiful and unboxing was easy, although the setup took 30 minutes. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 82,
+      "max_trust_score": 90,
+      "min_confidence": 73.31,
+      "max_confidence": 79.31
+    }
+  },
+  {
+    "id": "case_142",
+    "category": "balanced_mixed",
+    "review": "The wireless mouse packaging was beautiful and unboxing was easy, although the setup took 30 minutes. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 70.72,
+      "max_confidence": 76.72
+    }
+  },
+  {
+    "id": "case_143",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 705 was very fast, but the air conditioning was a bit noisy this morning. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.9,
+      "max_confidence": 81.9
+    }
+  },
+  {
+    "id": "case_144",
+    "category": "balanced_mixed",
+    "review": "The display is bright and the battery life is great, but the plastic case feels cheap. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 78.01,
+      "max_confidence": 84.01
+    }
+  },
+  {
+    "id": "case_145",
+    "category": "balanced_mixed",
+    "review": "The display is bright and the battery life is great, but the plastic case feels cheap. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 80,
+      "max_trust_score": 88,
+      "min_confidence": 72.84,
+      "max_confidence": 78.84
+    }
+  },
+  {
+    "id": "case_146",
+    "category": "balanced_mixed",
+    "review": "The Galaxy S24 has an exceptionally sleek design and works fast, but the charging cable is short. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 80,
+      "max_trust_score": 88,
+      "min_confidence": 70.81,
+      "max_confidence": 76.81
+    }
+  },
+  {
+    "id": "case_147",
+    "category": "balanced_mixed",
+    "review": "Food quality was excellent, especially the tikka masala, however the service was extremely slow tonight. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 76.8,
+      "max_confidence": 82.8
+    }
+  },
+  {
+    "id": "case_148",
+    "category": "balanced_mixed",
+    "review": "The bluetooth speaker packaging was beautiful and unboxing was easy, although the setup took 30 minutes. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 82,
+      "max_trust_score": 90,
+      "min_confidence": 73.31,
+      "max_confidence": 79.31
+    }
+  },
+  {
+    "id": "case_149",
+    "category": "balanced_mixed",
+    "review": "The USB hub packaging was beautiful and unboxing was easy, although the setup took 30 minutes. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 70.48,
+      "max_confidence": 76.48
+    }
+  },
+  {
+    "id": "case_150",
+    "category": "balanced_mixed",
+    "review": "The charging block has an exceptionally sleek design and works fast, but the charging cable is short. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 80,
+      "max_trust_score": 88,
+      "min_confidence": 70.72,
+      "max_confidence": 76.72
+    }
+  },
+  {
+    "id": "case_151",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 508 was very fast, but the air conditioning was a bit noisy this morning. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 81.25,
+      "max_confidence": 87.25
+    }
+  },
+  {
+    "id": "case_152",
+    "category": "balanced_mixed",
+    "review": "Food quality was excellent, especially the pizza, however the service was extremely slow tonight. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 76.47,
+      "max_confidence": 82.47
+    }
+  },
+  {
+    "id": "case_153",
+    "category": "balanced_mixed",
+    "review": "Food quality was excellent, especially the burger, however the service was extremely slow tonight. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 76.47,
+      "max_confidence": 82.47
+    }
+  },
+  {
+    "id": "case_154",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 415 was very fast, but the air conditioning was a bit noisy this morning. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 81.25,
+      "max_confidence": 87.25
+    }
+  },
+  {
+    "id": "case_155",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 306 was very fast, but the air conditioning was a bit noisy this morning. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.9,
+      "max_confidence": 81.9
+    }
+  },
+  {
+    "id": "case_156",
+    "category": "balanced_mixed",
+    "review": "The room 508 bed was exceptionally clean and comfortable, although the street noise was quite loud last night. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.72,
+      "max_confidence": 88.72
+    }
+  },
+  {
+    "id": "case_157",
+    "category": "balanced_mixed",
+    "review": "The USB hub has an exceptionally sleek design and works fast, but the charging cable is short. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 80,
+      "max_trust_score": 88,
+      "min_confidence": 70.48,
+      "max_confidence": 76.48
+    }
+  },
+  {
+    "id": "case_158",
+    "category": "balanced_mixed",
+    "review": "The room 306 bed was exceptionally clean and comfortable, although the street noise was quite loud last night. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.72,
+      "max_confidence": 88.72
+    }
+  },
+  {
+    "id": "case_159",
+    "category": "balanced_mixed",
+    "review": "The room 501 bed was exceptionally clean and comfortable, although the street noise was quite loud last night. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 79.0,
+      "max_confidence": 85.0
+    }
+  },
+  {
+    "id": "case_160",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 501 was very fast, but the air conditioning was a bit noisy this morning. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.9,
+      "max_confidence": 81.9
+    }
+  },
+  {
+    "id": "case_161",
+    "category": "balanced_mixed",
+    "review": "The room 204 bed was exceptionally clean and comfortable, although the street noise was quite loud last night. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.72,
+      "max_confidence": 88.72
+    }
+  },
+  {
+    "id": "case_162",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 804 was very fast, but the air conditioning was a bit noisy this morning. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.9,
+      "max_confidence": 81.9
+    }
+  },
+  {
+    "id": "case_163",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 102 was very fast, but the air conditioning was a bit noisy this morning. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.9,
+      "max_confidence": 81.9
+    }
+  },
+  {
+    "id": "case_164",
+    "category": "balanced_mixed",
+    "review": "The laptop stand has an exceptionally sleek design and works fast, but the charging cable is short. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 83,
+      "max_trust_score": 91,
+      "min_confidence": 73.13,
+      "max_confidence": 79.13
+    }
+  },
+  {
+    "id": "case_165",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 614 was very fast, but the air conditioning was a bit noisy this morning. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 81.25,
+      "max_confidence": 87.25
+    }
+  },
+  {
+    "id": "case_166",
+    "category": "balanced_mixed",
+    "review": "Food quality was excellent, especially the pasta, however the service was extremely slow tonight. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 70.71,
+      "max_confidence": 76.71
+    }
+  },
+  {
+    "id": "case_167",
+    "category": "balanced_mixed",
+    "review": "The room 415 bed was exceptionally clean and comfortable, although the street noise was quite loud last night. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.72,
+      "max_confidence": 88.72
+    }
+  },
+  {
+    "id": "case_168",
+    "category": "balanced_mixed",
+    "review": "Food quality was excellent, especially the pasta, however the service was extremely slow tonight. Still a decent value for money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 76.47,
+      "max_confidence": 82.47
+    }
+  },
+  {
+    "id": "case_169",
+    "category": "balanced_mixed",
+    "review": "The wifi in room 412 was very fast, but the air conditioning was a bit noisy this morning. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.9,
+      "max_confidence": 81.9
+    }
+  },
+  {
+    "id": "case_170",
+    "category": "balanced_mixed",
+    "review": "The mechanical keyboard packaging was beautiful and unboxing was easy, although the setup took 30 minutes. We will see how it goes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 70.72,
+      "max_confidence": 76.72
+    }
+  },
+  {
+    "id": "case_171",
+    "category": "ai_generated",
+    "review": "This establishment offers an absolutely unparalleled experience that surpasses all expectations. The craftsmanship represents the absolute pinnacle of quality and sophistication. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 37,
+      "max_trust_score": 45,
+      "min_confidence": 62.78,
+      "max_confidence": 68.78
+    }
+  },
+  {
+    "id": "case_172",
+    "category": "ai_generated",
+    "review": "Every operational element is meticulously coordinated to ensure a flawless customer experience. I was immensely impressed by the exquisite standard of service and highly professional treatment. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 64.74,
+      "max_confidence": 70.74
+    }
+  },
+  {
+    "id": "case_173",
+    "category": "ai_generated",
+    "review": "The level of professionalism demonstrated by the entire team is truly remarkable. I was immensely impressed by the exquisite standard of service and highly professional treatment. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 64.35,
+      "max_confidence": 70.35
+    }
+  },
+  {
+    "id": "case_174",
+    "category": "ai_generated",
+    "review": "The level of professionalism demonstrated by the entire team is truly remarkable. I was immensely impressed by the exquisite standard of service and highly professional treatment. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 64.55,
+      "max_confidence": 70.55
+    }
+  },
+  {
+    "id": "case_175",
+    "category": "ai_generated",
+    "review": "I am thoroughly delighted with this outstanding acquisition and high-quality product. I was immensely impressed by the exquisite standard of service and highly professional treatment. It represents the finest standard in the industry today. Absolute perfection.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 65.57,
+      "max_confidence": 71.57
+    }
+  },
+  {
+    "id": "case_176",
+    "category": "ai_generated",
+    "review": "This establishment offers an absolutely unparalleled experience that surpasses all expectations. The team demonstrates stellar dedication and unmatched competence at every single point. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 39,
+      "max_trust_score": 47,
+      "min_confidence": 62.4,
+      "max_confidence": 68.4
+    }
+  },
+  {
+    "id": "case_177",
+    "category": "ai_generated",
+    "review": "Every operational element is meticulously coordinated to ensure a flawless customer experience. The team demonstrates stellar dedication and unmatched competence at every single point. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 62.48,
+      "max_confidence": 68.48
+    }
+  },
+  {
+    "id": "case_178",
+    "category": "ai_generated",
+    "review": "I am thoroughly delighted with this outstanding acquisition and high-quality product. I was immensely impressed by the exquisite standard of service and highly professional treatment. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 64.47,
+      "max_confidence": 70.47
+    }
+  },
+  {
+    "id": "case_179",
+    "category": "ai_generated",
+    "review": "Every operational element is meticulously coordinated to ensure a flawless customer experience. The craftsmanship represents the absolute pinnacle of quality and sophistication. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 62.85,
+      "max_confidence": 68.85
+    }
+  },
+  {
+    "id": "case_180",
+    "category": "ai_generated",
+    "review": "Every operational element is meticulously coordinated to ensure a flawless customer experience. The team demonstrates stellar dedication and unmatched competence at every single point. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 62.93,
+      "max_confidence": 68.93
+    }
+  },
+  {
+    "id": "case_181",
+    "category": "ai_generated",
+    "review": "The level of professionalism demonstrated by the entire team is truly remarkable. The team demonstrates stellar dedication and unmatched competence at every single point. It represents the finest standard in the industry today. Absolute perfection.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 63.82,
+      "max_confidence": 69.82
+    }
+  },
+  {
+    "id": "case_182",
+    "category": "ai_generated",
+    "review": "This establishment offers an absolutely unparalleled experience that surpasses all expectations. I was immensely impressed by the exquisite standard of service and highly professional treatment. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 64.59,
+      "max_confidence": 70.59
+    }
+  },
+  {
+    "id": "case_183",
+    "category": "ai_generated",
+    "review": "I am thoroughly delighted with this outstanding acquisition and high-quality product. The craftsmanship represents the absolute pinnacle of quality and sophistication. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 35,
+      "max_trust_score": 43,
+      "min_confidence": 62.17,
+      "max_confidence": 68.17
+    }
+  },
+  {
+    "id": "case_184",
+    "category": "ai_generated",
+    "review": "I am thoroughly delighted with this outstanding acquisition and high-quality product. The team demonstrates stellar dedication and unmatched competence at every single point. It represents the finest standard in the industry today. Absolute perfection.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 63.86,
+      "max_confidence": 69.86
+    }
+  },
+  {
+    "id": "case_185",
+    "category": "ai_generated",
+    "review": "This establishment offers an absolutely unparalleled experience that surpasses all expectations. Every detail is meticulously crafted to ensure complete and absolute satisfaction. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 62.85,
+      "max_confidence": 68.85
+    }
+  },
+  {
+    "id": "case_186",
+    "category": "ai_generated",
+    "review": "The level of professionalism demonstrated by the entire team is truly remarkable. The team demonstrates stellar dedication and unmatched competence at every single point. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 39,
+      "max_trust_score": 47,
+      "min_confidence": 62.29,
+      "max_confidence": 68.29
+    }
+  },
+  {
+    "id": "case_187",
+    "category": "ai_generated",
+    "review": "Every operational element is meticulously coordinated to ensure a flawless customer experience. The craftsmanship represents the absolute pinnacle of quality and sophistication. I highly recommend this to anyone seeking true excellence and quality.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 40,
+      "max_trust_score": 48,
+      "min_confidence": 62.36,
+      "max_confidence": 68.36
+    }
+  },
+  {
+    "id": "case_188",
+    "category": "ai_generated",
+    "review": "Every operational element is meticulously coordinated to ensure a flawless customer experience. I was immensely impressed by the exquisite standard of service and highly professional treatment. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 64.54,
+      "max_confidence": 70.54
+    }
+  },
+  {
+    "id": "case_189",
+    "category": "ai_generated",
+    "review": "The level of professionalism demonstrated by the entire team is truly remarkable. The craftsmanship represents the absolute pinnacle of quality and sophistication. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 36,
+      "max_trust_score": 44,
+      "min_confidence": 62.62,
+      "max_confidence": 68.62
+    }
+  },
+  {
+    "id": "case_190",
+    "category": "ai_generated",
+    "review": "Every operational element is meticulously coordinated to ensure a flawless customer experience. Every detail is meticulously crafted to ensure complete and absolute satisfaction. A truly perfect and magnificent purchase that I cannot recommend highly enough.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 41,
+      "max_trust_score": 49,
+      "min_confidence": 62.85,
+      "max_confidence": 68.85
+    }
+  },
+  {
+    "id": "case_191",
+    "category": "hotel",
+    "review": "Checked into room 204 at 3 PM and met the receptionist Emily. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.13,
+      "max_confidence": 91.13
+    }
+  },
+  {
+    "id": "case_192",
+    "category": "hotel",
+    "review": "Checked in yesterday afternoon at the reception desk for room 204. The bed was comfortable and wifi was fast, although the lobby area was crowded. Manager Emily was helpful when we asked for clean towels.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.18,
+      "max_confidence": 90.18
+    }
+  },
+  {
+    "id": "case_193",
+    "category": "hotel",
+    "review": "Checked into room 705 at 3 PM and met the receptionist Jessica. The bed was comfortable and wifi was fast, although the lobby area was crowded. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.08,
+      "max_confidence": 90.08
+    }
+  },
+  {
+    "id": "case_194",
+    "category": "hotel",
+    "review": "Checked in yesterday afternoon at the reception desk for room 306. The bed was comfortable and wifi was fast, although the lobby area was crowded. Manager Emma was helpful when we asked for clean towels.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.18,
+      "max_confidence": 90.18
+    }
+  },
+  {
+    "id": "case_195",
+    "category": "hotel",
+    "review": "Stayed in room 412 on Tuesday night during our trip. We liked the free coffee in the lobby, but the shower water was slightly lukewarm. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 83.9,
+      "max_confidence": 89.9
+    }
+  },
+  {
+    "id": "case_196",
+    "category": "hotel",
+    "review": "Checked in yesterday afternoon at the reception desk for room 702. The bed was comfortable and wifi was fast, although the lobby area was crowded. Quiet neighborhood and decent parking area.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.35,
+      "max_confidence": 91.35
+    }
+  },
+  {
+    "id": "case_197",
+    "category": "hotel",
+    "review": "Checked in yesterday afternoon at the reception desk for room 101. We liked the free coffee in the lobby, but the shower water was slightly lukewarm. Quiet neighborhood and decent parking area.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.17,
+      "max_confidence": 91.17
+    }
+  },
+  {
+    "id": "case_198",
+    "category": "hotel",
+    "review": "Checked in yesterday afternoon at the reception desk for room 101. The bed was comfortable and wifi was fast, although the lobby area was crowded. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.32,
+      "max_confidence": 91.32
+    }
+  },
+  {
+    "id": "case_199",
+    "category": "hotel",
+    "review": "Stayed in room 508 on Monday night during our trip. We liked the free coffee in the lobby, but the shower water was slightly lukewarm. Manager Jessica was helpful when we asked for clean towels.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.09,
+      "max_confidence": 91.09
+    }
+  },
+  {
+    "id": "case_200",
+    "category": "hotel",
+    "review": "Stayed in room 203 on Monday night during our trip. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Manager Sarah was helpful when we asked for clean towels.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.25,
+      "max_confidence": 91.25
+    }
+  },
+  {
+    "id": "case_201",
+    "category": "hotel",
+    "review": "Stayed in room 101 on Friday night during our trip. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.17,
+      "max_confidence": 91.17
+    }
+  },
+  {
+    "id": "case_202",
+    "category": "hotel",
+    "review": "Stayed in room 102 on Sunday night during our trip. We liked the free coffee in the lobby, but the shower water was slightly lukewarm. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 83.9,
+      "max_confidence": 89.9
+    }
+  },
+  {
+    "id": "case_203",
+    "category": "hotel",
+    "review": "Checked into room 305 at 3 PM and met the receptionist Lily. The bed was comfortable and wifi was fast, although the lobby area was crowded. Manager Lily was helpful when we asked for clean towels.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.25,
+      "max_confidence": 90.25
+    }
+  },
+  {
+    "id": "case_204",
+    "category": "hotel",
+    "review": "Checked into room 501 at 3 PM and met the receptionist David. The bed was comfortable and wifi was fast, although the lobby area was crowded. Quiet neighborhood and decent parking area.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.43,
+      "max_confidence": 91.43
+    }
+  },
+  {
+    "id": "case_205",
+    "category": "hotel",
+    "review": "Checked into room 614 at 3 PM and met the receptionist Emma. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.13,
+      "max_confidence": 91.13
+    }
+  },
+  {
+    "id": "case_206",
+    "category": "hotel",
+    "review": "Checked into room 305 at 3 PM and met the receptionist Clarence. We liked the free coffee in the lobby, but the shower water was slightly lukewarm. Manager Clarence was helpful when we asked for clean towels.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.13,
+      "max_confidence": 91.13
+    }
+  },
+  {
+    "id": "case_207",
+    "category": "hotel",
+    "review": "Stayed in room 614 on Sunday night during our trip. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Staff was polite enough to store our luggage today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.17,
+      "max_confidence": 91.17
+    }
+  },
+  {
+    "id": "case_208",
+    "category": "hotel",
+    "review": "Stayed in room 508 on Saturday night during our trip. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Quiet neighborhood and decent parking area.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.32,
+      "max_confidence": 91.32
+    }
+  },
+  {
+    "id": "case_209",
+    "category": "hotel",
+    "review": "Checked into room 702 at 3 PM and met the receptionist Oliver. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Manager Oliver was helpful when we asked for clean towels.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.2,
+      "max_confidence": 91.2
+    }
+  },
+  {
+    "id": "case_210",
+    "category": "hotel",
+    "review": "Checked into room 415 at 3 PM and met the receptionist Lucas. The room bathroom was clean and sheets were fresh, but the AC unit was loud. Quiet neighborhood and decent parking area.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 85.35,
+      "max_confidence": 91.35
+    }
+  },
+  {
+    "id": "case_211",
+    "category": "amazon_product",
+    "review": "Got this Galaxy S24 on sale last week and opened it this afternoon. The battery life is excellent and charging is fast, but the adapter gets warm. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 77.42,
+      "max_confidence": 83.42
+    }
+  },
+  {
+    "id": "case_212",
+    "category": "amazon_product",
+    "review": "This protective case arrived in a slightly damaged box on Thursday afternoon. It fits perfectly and works fine, although the charging cable is a bit short. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 78.9,
+      "max_confidence": 84.9
+    }
+  },
+  {
+    "id": "case_213",
+    "category": "amazon_product",
+    "review": "Ordered the bluetooth speaker last Wednesday and the package arrived today. Material feels sturdy and unboxing was clean, but the buttons are slightly stiff. Decent shipping speed and good packaging.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.65,
+      "max_confidence": 90.65
+    }
+  },
+  {
+    "id": "case_214",
+    "category": "amazon_product",
+    "review": "Ordered the mechanical keyboard last Sunday and the package arrived today. The battery life is excellent and charging is fast, but the adapter gets warm. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 81,
+      "max_trust_score": 89,
+      "min_confidence": 81.44,
+      "max_confidence": 87.44
+    }
+  },
+  {
+    "id": "case_215",
+    "category": "amazon_product",
+    "review": "Ordered the USB hub last Sunday and the package arrived today. The battery life is excellent and charging is fast, but the adapter gets warm. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 81.35,
+      "max_confidence": 87.35
+    }
+  },
+  {
+    "id": "case_216",
+    "category": "amazon_product",
+    "review": "Got this USB hub on sale last week and opened it this evening. It fits perfectly and works fine, although the charging cable is a bit short. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 79.26,
+      "max_confidence": 85.26
+    }
+  },
+  {
+    "id": "case_217",
+    "category": "amazon_product",
+    "review": "This wireless mouse arrived in a slightly damaged box on Thursday afternoon. Material feels sturdy and unboxing was clean, but the buttons are slightly stiff. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 83.86,
+      "max_confidence": 89.86
+    }
+  },
+  {
+    "id": "case_218",
+    "category": "amazon_product",
+    "review": "This USB hub arrived in a slightly damaged box on Thursday afternoon. It fits perfectly and works fine, although the charging cable is a bit short. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.26,
+      "max_confidence": 81.26
+    }
+  },
+  {
+    "id": "case_219",
+    "category": "amazon_product",
+    "review": "Ordered the laptop stand last Wednesday and the package arrived today. The battery life is excellent and charging is fast, but the adapter gets warm. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 82.63,
+      "max_confidence": 88.63
+    }
+  },
+  {
+    "id": "case_220",
+    "category": "amazon_product",
+    "review": "This USB hub arrived in a slightly damaged box on Thursday afternoon. Material feels sturdy and unboxing was clean, but the buttons are slightly stiff. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 83.66,
+      "max_confidence": 89.66
+    }
+  },
+  {
+    "id": "case_221",
+    "category": "amazon_product",
+    "review": "This wireless mouse arrived in a slightly damaged box on Thursday afternoon. Material feels sturdy and unboxing was clean, but the buttons are slightly stiff. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 83.86,
+      "max_confidence": 89.86
+    }
+  },
+  {
+    "id": "case_222",
+    "category": "amazon_product",
+    "review": "This charging block arrived in a slightly damaged box on Thursday afternoon. It fits perfectly and works fine, although the charging cable is a bit short. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 75.5,
+      "max_confidence": 81.5
+    }
+  },
+  {
+    "id": "case_223",
+    "category": "amazon_product",
+    "review": "Got this MacBook Pro on sale last week and opened it this night. It fits perfectly and works fine, although the charging cable is a bit short. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 79.61,
+      "max_confidence": 85.61
+    }
+  },
+  {
+    "id": "case_224",
+    "category": "amazon_product",
+    "review": "Ordered the iPhone 15 last Wednesday and the package arrived today. It fits perfectly and works fine, although the charging cable is a bit short. Decent shipping speed and good packaging.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 81.11,
+      "max_confidence": 87.11
+    }
+  },
+  {
+    "id": "case_225",
+    "category": "amazon_product",
+    "review": "Ordered the wireless mouse last Saturday and the package arrived today. The battery life is excellent and charging is fast, but the adapter gets warm. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 86,
+      "max_trust_score": 94,
+      "min_confidence": 81.55,
+      "max_confidence": 87.55
+    }
+  },
+  {
+    "id": "case_226",
+    "category": "amazon_product",
+    "review": "Got this mechanical keyboard on sale last week and opened it this morning. It fits perfectly and works fine, although the charging cable is a bit short. Decent shipping speed and good packaging.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 83,
+      "max_trust_score": 91,
+      "min_confidence": 79.83,
+      "max_confidence": 85.83
+    }
+  },
+  {
+    "id": "case_227",
+    "category": "amazon_product",
+    "review": "Got this protective case on sale last week and opened it this night. Material feels sturdy and unboxing was clean, but the buttons are slightly stiff. Would recommend for anyone needing a basic charger.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.84,
+      "max_confidence": 90.84
+    }
+  },
+  {
+    "id": "case_228",
+    "category": "amazon_product",
+    "review": "Ordered the wireless mouse last Monday and the package arrived today. Material feels sturdy and unboxing was clean, but the buttons are slightly stiff. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.65,
+      "max_confidence": 90.65
+    }
+  },
+  {
+    "id": "case_229",
+    "category": "amazon_product",
+    "review": "Ordered the mechanical keyboard last Tuesday and the package arrived today. It fits perfectly and works fine, although the charging cable is a bit short. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 81,
+      "max_trust_score": 89,
+      "min_confidence": 79.76,
+      "max_confidence": 85.76
+    }
+  },
+  {
+    "id": "case_230",
+    "category": "amazon_product",
+    "review": "This USB hub arrived in a slightly damaged box on Thursday afternoon. The battery life is excellent and charging is fast, but the adapter gets warm. Overall, good value for the money.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 80.49,
+      "max_confidence": 86.49
+    }
+  },
+  {
+    "id": "case_231",
+    "category": "restaurant",
+    "review": "We ordered the lasagna and garlic knots for delivery yesterday. The dining room was clean and quiet, but the music was a bit too loud. Waiter Lucas was very attentive and friendly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.83,
+      "max_confidence": 90.83
+    }
+  },
+  {
+    "id": "case_232",
+    "category": "restaurant",
+    "review": "Had dinner here last Monday night with my family. The food was delicious and served hot, although the wait time was 30 minutes. Will definitely order from them again soon.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 89,
+      "max_trust_score": 97,
+      "min_confidence": 83.56,
+      "max_confidence": 89.56
+    }
+  },
+  {
+    "id": "case_233",
+    "category": "restaurant",
+    "review": "Had dinner here last Thursday night with my family. Chicken was tender and sauce was flavorful, although the portion was small. Waiter Marcus was very attentive and friendly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 80.98,
+      "max_confidence": 86.98
+    }
+  },
+  {
+    "id": "case_234",
+    "category": "restaurant",
+    "review": "Stopped by today for lunch and ordered the burger. Chicken was tender and sauce was flavorful, although the portion was small. Waiter Emma was very attentive and friendly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 80.87,
+      "max_confidence": 86.87
+    }
+  },
+  {
+    "id": "case_235",
+    "category": "restaurant",
+    "review": "Had dinner here last Thursday night with my family. The food was delicious and served hot, although the wait time was 30 minutes. Will definitely order from them again soon.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 89,
+      "max_trust_score": 97,
+      "min_confidence": 83.56,
+      "max_confidence": 89.56
+    }
+  },
+  {
+    "id": "case_236",
+    "category": "restaurant",
+    "review": "Had dinner here last Monday night with my family. The food was delicious and served hot, although the wait time was 30 minutes. Waiter Marcus was very attentive and friendly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.65,
+      "max_confidence": 90.65
+    }
+  },
+  {
+    "id": "case_237",
+    "category": "restaurant",
+    "review": "Had dinner here last Tuesday night with my family. The food was delicious and served hot, although the wait time was 30 minutes. Will definitely order from them again soon.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 89,
+      "max_trust_score": 97,
+      "min_confidence": 83.56,
+      "max_confidence": 89.56
+    }
+  },
+  {
+    "id": "case_238",
+    "category": "restaurant",
+    "review": "Stopped by today for lunch and ordered the tikka masala. The food was delicious and served hot, although the wait time was 30 minutes. Waiter Sarah was very attentive and friendly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.68,
+      "max_confidence": 90.68
+    }
+  },
+  {
+    "id": "case_239",
+    "category": "restaurant",
+    "review": "Stopped by today for lunch and ordered the chicken curry. Chicken was tender and sauce was flavorful, although the portion was small. Waiter Sophia was very attentive and friendly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 79,
+      "max_trust_score": 87,
+      "min_confidence": 80.83,
+      "max_confidence": 86.83
+    }
+  },
+  {
+    "id": "case_240",
+    "category": "restaurant",
+    "review": "We ordered the chicken curry and garlic knots for delivery yesterday. The food was delicious and served hot, although the wait time was 30 minutes. Waiter David was very attentive and friendly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 90,
+      "max_trust_score": 97,
+      "min_confidence": 84.68,
+      "max_confidence": 90.68
+    }
+  },
+  {
+    "id": "case_241",
+    "category": "weak_generic",
+    "review": "Good service and friendly staff. Clean room and comfortable bed.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 67,
+      "max_trust_score": 75,
+      "min_confidence": 58.21,
+      "max_confidence": 64.21
+    }
+  },
+  {
+    "id": "case_242",
+    "category": "weak_generic",
+    "review": "Very nice product. Friendly staff and quiet stay.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 56.71,
+      "max_confidence": 62.71
+    }
+  },
+  {
+    "id": "case_243",
+    "category": "weak_generic",
+    "review": "Decent quality, okay price. Good service and friendly staff.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 52,
+      "max_trust_score": 60,
+      "min_confidence": 57.38,
+      "max_confidence": 63.38
+    }
+  },
+  {
+    "id": "case_244",
+    "category": "weak_generic",
+    "review": "Decent quality, okay price. Works fine, simple setup.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 46,
+      "max_trust_score": 54,
+      "min_confidence": 56.64,
+      "max_confidence": 62.64
+    }
+  },
+  {
+    "id": "case_245",
+    "category": "weak_generic",
+    "review": "Great hotel, clean room. Excellent value for money, five stars.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 32,
+      "max_trust_score": 40,
+      "min_confidence": 55.0,
+      "max_confidence": 61.0
+    }
+  },
+  {
+    "id": "case_246",
+    "category": "weak_generic",
+    "review": "Loved it, will buy again. Works fine, simple setup.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 46,
+      "max_trust_score": 54,
+      "min_confidence": 56.54,
+      "max_confidence": 62.54
+    }
+  },
+  {
+    "id": "case_247",
+    "category": "weak_generic",
+    "review": "Very nice product. Works fine, simple setup.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 46,
+      "max_trust_score": 54,
+      "min_confidence": 55.0,
+      "max_confidence": 61.0
+    }
+  },
+  {
+    "id": "case_248",
+    "category": "weak_generic",
+    "review": "Good food, decent price. Good service and friendly staff.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 51,
+      "max_trust_score": 59,
+      "min_confidence": 56.55,
+      "max_confidence": 62.55
+    }
+  },
+  {
+    "id": "case_249",
+    "category": "weak_generic",
+    "review": "Great hotel, clean room. Very nice product.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "min_confidence": 55.0,
+      "max_confidence": 61.0
+    }
+  },
+  {
+    "id": "case_250",
+    "category": "weak_generic",
+    "review": "Good food, decent price. Very nice product.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 49,
+      "max_trust_score": 57,
+      "min_confidence": 55.39,
+      "max_confidence": 61.39
+    }
+  }
+]

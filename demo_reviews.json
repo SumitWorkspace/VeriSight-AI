@@ -1,0 +1,152 @@
+[
+  {
+    "id": "genuine_1",
+    "category": "Genuine",
+    "review": "Stayed in room 304 for two nights this past weekend. The bed sheets were extremely clean and the mattress was incredibly soft. The front desk receptionist, Sarah, greeted us warmly and stored our bags today after checkout so we could explore. The only downside was a slightly slow elevator, but otherwise everything was perfect. Breakfast buffet had fresh hot eggs."
+  },
+  {
+    "id": "genuine_2",
+    "category": "Genuine",
+    "review": "The mechanical keyboard arrived today in a very secure box. I tested the brown tactile switches on my phone and MacBook Pro, and the Bluetooth connection synced up within 3 seconds. The keys are tactile and quiet enough for office typing. However, the package did not include a keycap puller as described. Good value for $45."
+  },
+  {
+    "id": "genuine_3",
+    "category": "Genuine",
+    "review": "Had a wonderful dinner tonight at the dining room. Ordered the chicken tikka masala, garlic naan, and veggie samosas. The food arrived piping hot in about 15 minutes. The curry was extremely flavorful and tender, although the dining room was a bit too cold. Our waiter, Alex, was highly attentive and refilled our drinks promptly."
+  },
+  {
+    "id": "genuine_4",
+    "category": "Genuine",
+    "review": "I plugged in my phone and tablet to the charging block today and both devices charged to 100% in under an hour. The dual USB-C ports are highly convenient and the block itself feels very sturdy. It does get slightly warm under heavy load, but nothing alarming. Excellent charger for the price."
+  },
+  {
+    "id": "genuine_5",
+    "category": "Genuine",
+    "review": "The steel mesh sink drain strainer fits our kitchen sink perfectly. It has been three weeks since I placed it in and there is absolutely zero rust. It catches all small food particles while allowing a smooth water flow. Extremely easy to clean under running water."
+  },
+  {
+    "id": "genuine_6",
+    "category": "Genuine",
+    "review": "Room 508 had an excellent view of the city skyline and a clean, spacious bathroom. The AC was highly responsive and kept the room perfectly cool today. A minor issue was the lobby coffee machine was broken in the morning, but the staff was extremely friendly and gave us directions to a local cafe."
+  },
+  {
+    "id": "genuine_7",
+    "category": "Genuine",
+    "review": "Ordered the cheeseburger and fries for delivery yesterday night. The delivery was fast, arriving in exactly 25 minutes. The burger was extremely juicy and cooked medium-well. However, the fries were slightly lukewarm. I popped them in the oven for 3 minutes and they were great. Will order again next weekend."
+  },
+  {
+    "id": "genuine_8",
+    "category": "Genuine",
+    "review": "Excellent location just a 5-minute walk from the subway station. The hotel lobby was very clean and had free water bottles for guests. The bed sheets were fresh, but the AC unit in room 102 made a clicking noise at night. Front desk moved us to a quiet room immediately when we mentioned it today."
+  },
+  {
+    "id": "genuine_9",
+    "category": "Genuine",
+    "review": "The screen protector for my iPhone 15 fits perfectly with no bubbles today. The package included a nice cleaning cloth and wet wipes. The glass feels smooth and does not interfere with the touchscreen responsiveness. Sturdy packaging saved it from being damaged during shipping."
+  },
+  {
+    "id": "genuine_10",
+    "category": "Genuine",
+    "review": "We stayed in room 204 for a quick weekday trip. The front desk clerk, Emily, was highly professional and helpful. The room sheets and blankets were fresh. The pool and gym areas were clean and quiet in the mornings, making it a very relaxing stay."
+  },
+  {
+    "id": "suspicious_1",
+    "category": "Suspicious",
+    "review": "THIS IS THE BEST PRODUCT EVER!!! MUST BUY!!! It is absolute perfection and highly recommend to everyone! Unbelievable quality, outstanding service, five stars all the way!!! Changed my life completely! Worth every single penny!"
+  },
+  {
+    "id": "suspicious_2",
+    "category": "Suspicious",
+    "review": "Wow! Outstanding, magnificent, and unbelievable experience! Highly recommend this perfect hotel to everyone! Best ever, five stars! Everything was absolutely amazing and perfect! Worth every single penny!"
+  },
+  {
+    "id": "suspicious_3",
+    "category": "Suspicious",
+    "review": "Amazing product! Outstanding standard of quality and unbelievable performance. MUST BUY! Highly recommend this perfect device to everyone. Best purchase of my life, five stars!"
+  },
+  {
+    "id": "suspicious_4",
+    "category": "Suspicious",
+    "review": "Absolutely flawless and highly recommend to everyone! Unbelievable quality and perfect service. It is the best ever, outstanding! Worth every single penny, five stars!"
+  },
+  {
+    "id": "suspicious_5",
+    "category": "Suspicious",
+    "review": "Best ever! Highly recommend to everyone! Five stars all the way! Amazing, outstanding, perfect, and unbelievable quality! It changed my life completely!"
+  },
+  {
+    "id": "suspicious_6",
+    "category": "Suspicious",
+    "review": "This is a must try! Highly recommend this incredible and perfect service to everyone! Outstanding quality, five stars, absolutely amazing!"
+  },
+  {
+    "id": "suspicious_7",
+    "category": "Suspicious",
+    "review": "Wow, just wow! Unbelievable quality and perfect support. Outstanding standard, highly recommend to everyone. Worth every penny, five stars!"
+  },
+  {
+    "id": "suspicious_8",
+    "category": "Suspicious",
+    "review": "Perfection! The absolute best ever! Highly recommend to everyone, must buy! Outstanding performance and amazing product, five stars!"
+  },
+  {
+    "id": "suspicious_9",
+    "category": "Suspicious",
+    "review": "Unbelievable quality and perfect experience! Highly recommend to everyone. Amazing, outstanding, and flawless, five stars!"
+  },
+  {
+    "id": "suspicious_10",
+    "category": "Suspicious",
+    "review": "Outstanding standard! Extremely amazing and perfect in every way. Highly recommend to everyone, best ever purchase!"
+  },
+  {
+    "id": "ambiguous_1",
+    "category": "Ambiguous",
+    "review": "I have been using this for a couple of weeks now. It works fine and does what it is supposed to do. Nothing special, but no major issues either. I guess it is decent for the price."
+  },
+  {
+    "id": "ambiguous_2",
+    "category": "Ambiguous",
+    "review": "Overall it was a decent experience. Some things were good, some things were bad. Not sure if I would return, but it was okay for a quick visit."
+  },
+  {
+    "id": "ambiguous_3",
+    "category": "Ambiguous",
+    "review": "It is alright. Nothing to write home about, but it works. We will see how it holds up over the next few months of regular usage."
+  },
+  {
+    "id": "ambiguous_4",
+    "category": "Ambiguous",
+    "review": "It is a decent product for the price. Not the best I have ever seen, but it gets the job done. We will see how it holds up over the next few weeks."
+  },
+  {
+    "id": "ambiguous_5",
+    "category": "Ambiguous",
+    "review": "Average quality. It is okay for basic needs, but don't expect anything extraordinary. Worth it if you get it on a discount."
+  },
+  {
+    "id": "ambiguous_6",
+    "category": "Ambiguous",
+    "review": "Not bad, not great either. It works as intended. Shipping was relatively fast. Probably average value for the money spent."
+  },
+  {
+    "id": "ambiguous_7",
+    "category": "Ambiguous",
+    "review": "It gets the job done. Nothing special, but it works. Quality is acceptable and fits fine. We will see if it lasts."
+  },
+  {
+    "id": "ambiguous_8",
+    "category": "Ambiguous",
+    "review": "Okay for the price. Not high end, but gets the job done for now. Decent packaging and average shipping speed."
+  },
+  {
+    "id": "ambiguous_9",
+    "category": "Ambiguous",
+    "review": "Fairly average. Nothing outstanding, but nothing broken either. It is standard and behaves as expected."
+  },
+  {
+    "id": "ambiguous_10",
+    "category": "Ambiguous",
+    "review": "Decent. It is average and works okay. Nothing to write home about, but acceptable for daily tasks."
+  }
+]

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+.pytest_cache/
+.mypy_cache/
+*.log
+
+# Node
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Data and models
+dataset/raw/
+model/saved_model/
+*.db
+*.sqlite
+*.sqlite3
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db

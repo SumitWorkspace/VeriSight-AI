@@ -1,0 +1,602 @@
+[
+  {
+    "id": "gd_001",
+    "category": "genuine_detailed",
+    "review": "The room was clean and the breakfast buffet had plenty of options. Check-in took around 10 minutes, but the staff was friendly and helped us with luggage.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 85,
+      "max_trust_score": 95,
+      "reasoning": "Specific observations, balanced sentiment, realistic experience."
+    }
+  },
+  {
+    "id": "gd_002",
+    "category": "genuine_detailed",
+    "review": "We had dinner here on Wednesday around 7 PM. I ordered the chicken tikka masala and garlic naan. The chicken was tender and had a great spice level, though the portion size was slightly small for the price. Our waitress Sarah was attentive and refilled our water regularly. The dining area was slightly crowded but clean.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 84,
+      "max_trust_score": 94,
+      "reasoning": "Contains specific dish names, time/day details, staff name, and a natural, balanced perspective."
+    }
+  },
+  {
+    "id": "gd_003",
+    "category": "genuine_detailed",
+    "review": "The mechanical keyboard arrived in sturdy packaging on Thursday. I’ve been using it for a couple of days now with my Windows laptop. The brown switches feel very tactile and quiet enough for office work. However, the spacebar has a slight rattle, and the Bluetooth connection takes 3 seconds to pair when switching devices.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 83,
+      "max_trust_score": 93,
+      "reasoning": "Includes specific product details (switches, laptop, pairing time) and balanced pros/cons."
+    }
+  },
+  {
+    "id": "gd_004",
+    "category": "genuine_detailed",
+    "review": "Brought my Honda Civic in for an oil change and brake pad replacement yesterday morning. The mechanic, Dave, explained the wear levels clearly and finished the work in under two hours. The total cost matched the initial phone quote, but the waiting room ran out of coffee. Overall, very honest service.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 85,
+      "max_trust_score": 95,
+      "reasoning": "Mentions car model, specific service type, mechanic name, realistic timing, and cost detail."
+    }
+  },
+  {
+    "id": "gd_005",
+    "category": "genuine_detailed",
+    "review": "Stayed in room 504 for two nights. The bed was comfortable and the view of the courtyard was nice. The walk to the subway takes about 8 minutes. The AC was a bit noisy on high, but it cooled the room down quickly. Reception clerk Marcus was helpful during checkout.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 84,
+      "max_trust_score": 94,
+      "reasoning": "Concrete room details, travel times, staff name, and realistic minor issues."
+    }
+  },
+  {
+    "id": "gd_006",
+    "category": "genuine_detailed",
+    "review": "Ordered the pepperoni pizza and a side of wings for delivery last night. The delivery driver got lost and took 50 minutes to arrive, so the pizza was only lukewarm. However, the crust had a great chew and the wings were crispy. They refunded my delivery fee when I called.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 82,
+      "max_trust_score": 92,
+      "reasoning": "Highly realistic delivery mishap detail, balanced review, specific items mentioned."
+    }
+  },
+  {
+    "id": "gd_007",
+    "category": "genuine_detailed",
+    "review": "The matte black case fits my iPhone 15 Pro perfectly. The volume buttons are clicky and the cutouts at the bottom line up nicely with the charging port. It adds some bulk to the sides, but it feels like it will protect against drops. The package took five days to arrive.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 83,
+      "max_trust_score": 93,
+      "reasoning": "Specific phone model, details about fit and buttons, natural pacing and shipping minor complaint."
+    }
+  },
+  {
+    "id": "gd_008",
+    "category": "genuine_detailed",
+    "review": "Visited Clara for a haircut on Saturday morning. The salon was clean and played relaxing music. Clara listened to what I wanted and did a great job trimming my layers. The price was $65, which is a bit higher than my last place, but the quality made it worth it. Will book again.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 84,
+      "max_trust_score": 94,
+      "reasoning": "Specific provider name, time of visit, price details, and a clear description of the experience."
+    }
+  },
+  {
+    "id": "gd_009",
+    "category": "genuine_detailed",
+    "review": "Had the lunch special here today. The cheeseburger was cooked medium-well as requested, and the fries were hot and salted. The dining room was loud because of a large group nearby, but the food came out in less than 15 minutes. Good value for $14.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 83,
+      "max_trust_score": 93,
+      "reasoning": "Specific lunch order, cooking details, price, timing, and environmental notes."
+    }
+  },
+  {
+    "id": "gd_010",
+    "category": "genuine_detailed",
+    "review": "I bought this vacuum cleaner last month after my old one broke. It does a fantastic job picking up dog hair from our thick living room rug, which was my main concern. The battery lasts about 35 minutes on eco mode, but drains in 12 minutes on max power. It’s lightweight and easy to empty, though the dust bin is a bit small. Definitely a lifesaver for pet owners.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Strong",
+      "min_trust_score": 82,
+      "max_trust_score": 92,
+      "reasoning": "Detailed pet and battery specs prevent it from being flagged as promotional despite the enthusiastic tone."
+    }
+  },
+  {
+    "id": "gs_001",
+    "category": "genuine_short",
+    "review": "Room 204 was clean and the bed was comfortable for a one night stay.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 70,
+      "max_trust_score": 78,
+      "reasoning": "Short review containing basic lodging details."
+    }
+  },
+  {
+    "id": "gs_002",
+    "category": "genuine_short",
+    "review": "The charging adapter works fine with my tablet and charges it quickly.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 68,
+      "max_trust_score": 76,
+      "reasoning": "Brief product feedback, lacks descriptive detail."
+    }
+  },
+  {
+    "id": "gs_003",
+    "category": "genuine_short",
+    "review": "Friendly service at the front desk and smooth checkout today.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 68,
+      "max_trust_score": 76,
+      "reasoning": "Short service feedback with timing, low specificity."
+    }
+  },
+  {
+    "id": "gs_004",
+    "category": "genuine_short",
+    "review": "The steak was cooked perfectly and the garlic bread was tasty.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 70,
+      "max_trust_score": 78,
+      "reasoning": "Brief restaurant review mentioning specific food items."
+    }
+  },
+  {
+    "id": "gs_005",
+    "category": "genuine_short",
+    "review": "Fits my desk perfectly and holds my heavy monitor without shaking.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 70,
+      "max_trust_score": 78,
+      "reasoning": "Short product review containing a specific setup detail."
+    }
+  },
+  {
+    "id": "gs_006",
+    "category": "genuine_short",
+    "review": "Clean bathroom, good hot water, and helpful staff at checkout.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 68,
+      "max_trust_score": 76,
+      "reasoning": "Short list of features, lacks sentence complexity."
+    }
+  },
+  {
+    "id": "gs_007",
+    "category": "genuine_short",
+    "review": "The shipping was extremely fast and the package arrived undamaged.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 66,
+      "max_trust_score": 74,
+      "reasoning": "Brief transaction feedback, common generic praise."
+    }
+  },
+  {
+    "id": "gs_008",
+    "category": "genuine_short",
+    "review": "The pizza slice was hot and fresh but the crust was a bit burnt.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 72,
+      "max_trust_score": 80,
+      "reasoning": "Short mixed review with slight detail, borderline low evidence."
+    }
+  },
+  {
+    "id": "gs_009",
+    "category": "genuine_short",
+    "review": "Nice pool area and easy parking near room 102.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 68,
+      "max_trust_score": 76,
+      "reasoning": "Short review with specific room number and amenities."
+    }
+  },
+  {
+    "id": "gs_010",
+    "category": "genuine_short",
+    "review": "The USB-C hub works perfectly with my M2 MacBook Pro.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 70,
+      "max_trust_score": 78,
+      "reasoning": "Contains highly specific technical entities despite being very short."
+    }
+  },
+  {
+    "id": "sp_001",
+    "category": "suspicious_promotional",
+    "review": "BEST HOTEL EVER!!! Everyone should stay here immediately. Absolutely perfect in every way.",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 20,
+      "max_trust_score": 40,
+      "reasoning": "Extreme superlatives, no concrete details, promotional tone."
+    }
+  },
+  {
+    "id": "sp_002",
+    "category": "suspicious_promotional",
+    "review": "WOW! This is an amazing product, absolutely life changing! Worth every single penny! MUST BUY!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 20,
+      "max_trust_score": 40,
+      "reasoning": "Heavily promotional phrases, excessive exclamation marks, lack of specific descriptions."
+    }
+  },
+  {
+    "id": "sp_003",
+    "category": "suspicious_promotional",
+    "review": "Best food in the entire world! Outstanding service, absolutely amazing! Highly recommend to everyone!!!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 20,
+      "max_trust_score": 40,
+      "reasoning": "Generic hyperbole, no specific dish details, high emotional intensity."
+    }
+  },
+  {
+    "id": "sp_004",
+    "category": "suspicious_promotional",
+    "review": "Five stars all the way!!! The best customer support ever, totally changed my life! Everyone must try them!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 22,
+      "max_trust_score": 42,
+      "reasoning": "Spammy marketing vocabulary, low detail, forcefully enthusiastic."
+    }
+  },
+  {
+    "id": "sp_005",
+    "category": "suspicious_promotional",
+    "review": "Simply flawless! Outstanding quality and unbelievable price. Go buy it right now, you won't regret it!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 24,
+      "max_trust_score": 44,
+      "reasoning": "Polished generic recommendation, no product features mentioned."
+    }
+  },
+  {
+    "id": "sp_006",
+    "category": "suspicious_promotional",
+    "review": "This hotel is absolute heaven! Highly recommend to everyone in the world. Five stars, worth every penny!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 20,
+      "max_trust_score": 40,
+      "reasoning": "Highly repetitive promotional vocabulary, zero specific features mentioned."
+    }
+  },
+  {
+    "id": "sp_007",
+    "category": "suspicious_promotional",
+    "review": "Amazing product! Truly life changing! Five stars, highly recommend to everyone, must buy!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 20,
+      "max_trust_score": 40,
+      "reasoning": "Cliché marketing slogans stacked together."
+    }
+  },
+  {
+    "id": "sp_008",
+    "category": "suspicious_promotional",
+    "review": "Absolutely incredible dining experience! The food is magical and perfect. Unbelievable service! Five stars!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 22,
+      "max_trust_score": 42,
+      "reasoning": "Vague superlatives, lacks names of foods or staff, promotional cadence."
+    }
+  },
+  {
+    "id": "sp_009",
+    "category": "suspicious_promotional",
+    "review": "Hands down the best service ever! Changed my life completely. Do not hesitate, book them today!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 20,
+      "max_trust_score": 40,
+      "reasoning": "Purely promotional call-to-action with no business details."
+    }
+  },
+  {
+    "id": "sp_010",
+    "category": "suspicious_promotional",
+    "review": "I am writing this review because this company is absolutely outstanding! The experience was perfect, the support was unbelievable, and everything was flawless. I highly recommend their amazing service to everyone. Five stars, worth every single penny, a must try!",
+    "expected": {
+      "risk_level": "High Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 25,
+      "max_trust_score": 45,
+      "reasoning": "Although longer, it is entirely composed of promotional buzzwords and generic filler without a single concrete fact."
+    }
+  },
+  {
+    "id": "am_001",
+    "category": "ambiguous",
+    "review": "The stay was decent overall and I did not face any major issues.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 65,
+      "reasoning": "Natural language but lacks specific evidence."
+    }
+  },
+  {
+    "id": "am_002",
+    "category": "ambiguous",
+    "review": "The product works as advertised. It was easy to set up and does the job.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 65,
+      "reasoning": "Decent phrasing but generic, could apply to any product."
+    }
+  },
+  {
+    "id": "am_003",
+    "category": "ambiguous",
+    "review": "The service was fine and they completed the work on time.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 48,
+      "max_trust_score": 63,
+      "reasoning": "Short, flat positive statement with no supporting details."
+    }
+  },
+  {
+    "id": "am_004",
+    "category": "ambiguous",
+    "review": "The food was okay and the staff was polite enough during our visit.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 65,
+      "reasoning": "Average experience description, lacks specific menu items."
+    }
+  },
+  {
+    "id": "am_005",
+    "category": "ambiguous",
+    "review": "It's an okay item for the price. I've seen better, but it's not bad.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 46,
+      "max_trust_score": 61,
+      "reasoning": "Highly neutral review, lack of detail limits trust."
+    }
+  },
+  {
+    "id": "am_006",
+    "category": "ambiguous",
+    "review": "The room was fine. Standard amenities, standard service. Nothing stands out.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 48,
+      "max_trust_score": 63,
+      "reasoning": "Low specificity hotel review, average tone."
+    }
+  },
+  {
+    "id": "am_007",
+    "category": "ambiguous",
+    "review": "Delivery took some time, but it works fine now that it's here.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 52,
+      "max_trust_score": 67,
+      "reasoning": "Simple transaction feedback, low specific details."
+    }
+  },
+  {
+    "id": "am_008",
+    "category": "ambiguous",
+    "review": "It does what it is supposed to. I have no complaints so far.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 48,
+      "max_trust_score": 63,
+      "reasoning": "Extremely generic confirmation of functionality."
+    }
+  },
+  {
+    "id": "am_009",
+    "category": "ambiguous",
+    "review": "The service was okay, standard wait time. Not sure if I will return.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 46,
+      "max_trust_score": 61,
+      "reasoning": "Vague service description, neutral sentiment."
+    }
+  },
+  {
+    "id": "am_010",
+    "category": "ambiguous",
+    "review": "I have been using this for a few weeks now. Sometimes it works well, and sometimes it doesn't. Overall, it's just a regular item and it performs okay. I guess it is fine for the price and standard usage.",
+    "expected": {
+      "risk_level": "Medium Risk",
+      "evidence_strength": "Low",
+      "min_trust_score": 50,
+      "max_trust_score": 68,
+      "reasoning": "Moderate length but completely lacks concrete attributes or technical details, keeping it in the uncertain/ambiguous range."
+    }
+  },
+  {
+    "id": "bm_001",
+    "category": "balanced_mixed",
+    "review": "The room was smaller than expected, but it was clean and the staff was helpful.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 80,
+      "max_trust_score": 90,
+      "reasoning": "Balanced sentiment and realistic human feedback."
+    }
+  },
+  {
+    "id": "bm_002",
+    "category": "balanced_mixed",
+    "review": "The keyboard has a great layout and the battery lasts long, but the keys feel a bit mushy.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 78,
+      "max_trust_score": 88,
+      "reasoning": "Balanced product features with clear pros and cons."
+    }
+  },
+  {
+    "id": "bm_003",
+    "category": "balanced_mixed",
+    "review": "The steak was delicious and seasoned well, although the service was slow and we waited 30 minutes.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 76,
+      "max_trust_score": 86,
+      "reasoning": "Identifies good food quality but calls out poor wait times."
+    }
+  },
+  {
+    "id": "bm_004",
+    "category": "balanced_mixed",
+    "review": "The shipping was fast and the case fits well, but the color is much darker than the website picture.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 78,
+      "max_trust_score": 88,
+      "reasoning": "Highlights positive delivery speed and product fit, contrasted with color mismatch."
+    }
+  },
+  {
+    "id": "bm_005",
+    "category": "balanced_mixed",
+    "review": "The hotel wifi was incredibly fast, but the AC unit in our room made a constant rattling noise.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 80,
+      "max_trust_score": 90,
+      "reasoning": "Contrasts a high-performance amenity (wifi) with a specific hardware defect."
+    }
+  },
+  {
+    "id": "bm_006",
+    "category": "balanced_mixed",
+    "review": "The car wash did a good job on the exterior, however they completely missed vacuuming the back seat.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 76,
+      "max_trust_score": 86,
+      "reasoning": "Clear service quality contrast, indicates personal observation of results."
+    }
+  },
+  {
+    "id": "bm_007",
+    "category": "balanced_mixed",
+    "review": "The phone case feels sturdy and protect the screen, though it makes the phone heavy.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 78,
+      "max_trust_score": 88,
+      "reasoning": "Positive protection details vs negative ergonomic impact."
+    }
+  },
+  {
+    "id": "bm_008",
+    "category": "balanced_mixed",
+    "review": "The pizza crust was thin and crispy, but the tomato sauce was a bit too sweet for my taste.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 77,
+      "max_trust_score": 87,
+      "reasoning": "Specific dish details with balanced subjective taste feedback."
+    }
+  },
+  {
+    "id": "bm_009",
+    "category": "balanced_mixed",
+    "review": "The hotel location is perfect for sightseeing, but the breakfast buffet was overcrowded and messy.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 80,
+      "max_trust_score": 90,
+      "reasoning": "Contrasts perfect location with a negative breakfast experience."
+    }
+  },
+  {
+    "id": "bm_010",
+    "category": "balanced_mixed",
+    "review": "I purchased the wireless headphones last week. The sound quality and bass response are excellent, and they stay secure while running, but the micro-USB charging port feels very outdated compared to modern USB-C.",
+    "expected": {
+      "risk_level": "Low Risk",
+      "evidence_strength": "Moderate",
+      "min_trust_score": 82,
+      "max_trust_score": 92,
+      "reasoning": "Highly specific product characteristics (bass response, secure fit, micro-USB vs USB-C) coupled with clear contrast structure."
+    }
+  }
+]

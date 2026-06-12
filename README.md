@@ -1,8 +1,16 @@
-# VeriSight AI - Review Trust Analysis Platform
+# VeriSight AI - AI-Powered Review Trust Analysis Platform
 
-VeriSight AI is an AI-powered review trust analysis platform that evaluates customer reviews and generates trust scores using a combination of NLP techniques, sentiment analysis, linguistic signals, and evidence-based scoring.
+VeriSight AI is a full-stack AI application that analyzes customer reviews and generates trust scores using a hybrid approach that combines NLP classification, sentiment analysis, linguistic signals, and evidence-based scoring.
 
 The platform helps identify potentially suspicious reviews while providing explainable insights into how trust scores are calculated.
+
+## Live Links
+
+* Live Demo: https://veri-sight-ai.vercel.app/
+* API Documentation: https://verisight-ai-6i41.onrender.com/docs
+* GitHub Repository: https://github.com/SumitWorkspace/VeriSight-AI
+
+---
 
 ## Features
 
@@ -15,7 +23,10 @@ The platform helps identify potentially suspicious reviews while providing expla
 * Explainable AI indicators
 * Interactive dashboard
 * Batch review analysis via CSV upload
-* FastAPI backend with Next.js frontend
+* FastAPI REST API
+* Responsive modern UI
+
+---
 
 ## Tech Stack
 
@@ -30,38 +41,30 @@ The platform helps identify potentially suspicious reviews while providing expla
 
 * FastAPI
 * Python
+
+### Database
+
 * SQLite
 
-### AI / NLP
+### AI & NLP
 
+* Hybrid Model + Rule Engine
 * Transformer-based text classification
-* Sentiment Analysis
-* Rule-based linguistic analysis
-* Evidence scoring engine
+* VADER Sentiment Analysis
+* Linguistic Feature Analysis
+* Evidence Scoring Engine
 
-## Project Structure
-
-```text
-frontend/
-├── app/
-├── components/
-├── lib/
-
-backend/
-├── app/
-│   ├── api/
-│   ├── services/
-│   ├── schemas/
-│   └── core/
-```
+---
 
 ## How It Works
 
 1. User submits a review.
 2. The backend analyzes sentiment, linguistic patterns, and contextual evidence.
-3. Multiple signals are combined into a trust score.
-4. The system generates confidence estimates and explainable indicators.
+3. Multiple signals are combined into a calibrated trust score.
+4. Confidence levels and explainable indicators are generated.
 5. Results are displayed through the dashboard.
+
+---
 
 ## API Endpoints
 
@@ -71,13 +74,13 @@ backend/
 GET /health
 ```
 
-### Analyze Review
+### Analyze Single Review
 
 ```http
 POST /predict
 ```
 
-### Batch Analysis
+### Batch Review Analysis
 
 ```http
 POST /batch-predict
@@ -89,31 +92,46 @@ POST /batch-predict
 GET /dashboard
 ```
 
+---
+
+## Project Structure
+
+```text
+VeriSight-AI
+│
+├── frontend/
+│   ├── app/
+│   ├── components/
+│   ├── hooks/
+│   └── lib/
+│
+├── backend/
+│   ├── app/
+│   │   ├── api/
+│   │   ├── core/
+│   │   ├── schemas/
+│   │   └── services/
+│   └── requirements.txt
+│
+├── README.md
+└── render.yaml
+```
+
+---
+
 ## Local Setup
 
 ### Backend
 
 ```bash
 cd backend
+
 pip install -r requirements.txt
+
 uvicorn app.main:app --reload --port 8005
 ```
 
-### Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Frontend:
-
-```text
-http://localhost:3000
-```
-
-Backend:
+Backend URL:
 
 ```text
 http://localhost:8005
@@ -125,31 +143,46 @@ API Documentation:
 http://localhost:8005/docs
 ```
 
+### Frontend
+
+```bash
+cd frontend
+
+npm install
+
+npm run dev
+```
+
+Create a `.env.local` file inside `frontend`:
+
+```env
+NEXT_PUBLIC_API_BASE_URL=http://localhost:8005
+```
+
+Frontend URL:
+
+```text
+http://localhost:3000
+```
+
+---
+
 ## Deployment
 
 ### Frontend
 
-Deploy on Vercel.
+* Hosted on Vercel
 
 ### Backend
 
-Deploy on Render.
+* Hosted on Render
 
-Required environment variable:
+### Production Environment Variable
 
 ```env
-NEXT_PUBLIC_API_BASE_URL=<backend-url>
+NEXT_PUBLIC_API_BASE_URL=https://verisight-ai-6i41.onrender.com
 ```
-
-## Screenshots
-
-### Review Analyzer
-
-![Review Analyzer](docs/assets/analyzer_screenshot.png)
-
-### Landing Page
-
-![Landing Page](docs/assets/landing_screenshot.png)
+---
 
 ## Future Improvements
 
@@ -157,14 +190,12 @@ NEXT_PUBLIC_API_BASE_URL=<backend-url>
 * PostgreSQL support
 * Advanced transformer models
 * Enhanced explainability visualizations
-* Expanded batch auditing capabilities
+* Multi-user analytics
+
+---
 
 ## Author
 
 Sumit Kumar
 
-GitHub: <your-github-profile>
-
-Live Demo: <your-vercel-url>
-
-API Docs: <your-render-url>/docs
+GitHub: https://github.com/SumitWorkspace
